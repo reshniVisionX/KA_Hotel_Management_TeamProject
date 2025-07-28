@@ -15,3 +15,5 @@ All team members should **extend their features from the base homepage** provide
 1. Clone the repository (if not already done):
    ```bash
    git clone https://github.com/reshniVisionX/KA_Hotel_Management_TeamProject.git
+1. Develop your pages
+2. Push in your branches
