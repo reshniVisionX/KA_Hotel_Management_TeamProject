@@ -1,0 +1,557 @@
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.csproj.AssemblyReference.cache
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.AssemblyInfoInputs.cache
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.AssemblyInfo.cs
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.csproj.CoreCompileInputs.cache
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.MvcApplicationPartsAssemblyInfo.cs
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.MvcApplicationPartsAssemblyInfo.cache
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.sourcelink.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\appsettings.Development.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\appsettings.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.staticwebassets.endpoints.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.exe
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.deps.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.runtimeconfig.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.pdb
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Azure.Core.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Azure.Identity.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Humanizer.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.ClientModel.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.CodeDom.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Memory.Data.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Text.Json.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjimswa.dswa.cache.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\scopedcss\bundle\RestaurantBookingSystem.styles.css
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.json.cache
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.development.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\Restaura.8283F6B0.Up2Date
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\refint\RestaurantBookingSystem.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.pdb
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.genruntimeconfig.cache
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\ref\RestaurantBookingSystem.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\BCrypt.Net-Next.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\appsettings.Development.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\appsettings.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.staticwebassets.endpoints.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.exe
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.deps.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.runtimeconfig.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.pdb
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Azure.Core.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Azure.Identity.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\BCrypt.Net-Next.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Humanizer.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.ClientModel.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.CodeDom.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Memory.Data.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Text.Json.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.csproj.AssemblyReference.cache
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.AssemblyInfoInputs.cache
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.AssemblyInfo.cs
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.csproj.CoreCompileInputs.cache
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.MvcApplicationPartsAssemblyInfo.cs
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.MvcApplicationPartsAssemblyInfo.cache
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjimswa.dswa.cache.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\scopedcss\bundle\RestaurantBookingSystem.styles.css
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.json.cache
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.development.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\Restaura.8283F6B0.Up2Date
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\refint\RestaurantBookingSystem.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.pdb
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.genruntimeconfig.cache
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\ref\RestaurantBookingSystem.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\AutoMapper.dll
+J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\appsettings.Development.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\appsettings.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.staticwebassets.endpoints.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.exe
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.deps.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.runtimeconfig.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\RestaurantBookingSystem.pdb
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\AutoMapper.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Azure.Core.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Azure.Identity.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\BCrypt.Net-Next.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Humanizer.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.ClientModel.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.CodeDom.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Memory.Data.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Text.Json.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.csproj.AssemblyReference.cache
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.AssemblyInfoInputs.cache
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.AssemblyInfo.cs
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.csproj.CoreCompileInputs.cache
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.MvcApplicationPartsAssemblyInfo.cs
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.MvcApplicationPartsAssemblyInfo.cache
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjimswa.dswa.cache.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\scopedcss\bundle\RestaurantBookingSystem.styles.css
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.json.cache
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.development.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\Restaura.8283F6B0.Up2Date
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\refint\RestaurantBookingSystem.dll
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.pdb
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\RestaurantBookingSystem.genruntimeconfig.cache
+J:\RestaurantBookingSystem\RestaurantBookingSystem\RestaurantBookingSystem\obj\Debug\net8.0\ref\RestaurantBookingSystem.dll
