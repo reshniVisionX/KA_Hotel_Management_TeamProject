@@ -1,0 +1,23 @@
+.admin-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: var(--bg-color);
+}
+
+.admin-content {
+  margin-top: 64px;
+  padding: 24px;
+  transition: margin-right 0.3s ease;
+  min-height: calc(100vh - 64px);
+}
+
+.admin-container.sidebar-open .admin-content {
+  margin-right: 280px;
+}
+
+@media (max-width: 768px) {
+  .admin-container.sidebar-open .admin-content {
+    margin-right: 0;
+  }
+}
