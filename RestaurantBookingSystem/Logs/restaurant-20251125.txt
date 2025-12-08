@@ -1,0 +1,223 @@
+2025-11-25T12:51:11.0755026+05:30  [INF] User profile is available. Using '"C:\Users\sivat\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. (7ac5e29c)
+2025-11-25T12:51:11.4539246+05:30  [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert. (f9d94507)
+2025-11-25T12:51:11.5519084+05:30  [INF] Now listening on: "https://localhost:7188" (d826f4b8)
+2025-11-25T12:51:11.5519781+05:30  [INF] Now listening on: "http://localhost:5070" (d826f4b8)
+2025-11-25T12:51:11.8450838+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-11-25T12:51:11.8459440+05:30  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-11-25T12:51:11.8460310+05:30  [INF] Content root path: "S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem" (cc26f24e)
+2025-11-25T12:51:18.0238638+05:30 0HNHBUCR1JB3G:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger""" - null null (d509f86a)
+2025-11-25T12:51:18.3393682+05:30 0HNHBUCR1JB3G:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger""" - 301 0 null 328.1343ms (74253ad3)
+2025-11-25T12:51:18.3487228+05:30 0HNHBUCR1JB3G:00000003 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - null null (d509f86a)
+2025-11-25T12:51:18.4516018+05:30 0HNHBUCR1JB3G:00000003 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 102.9395ms (74253ad3)
+2025-11-25T12:51:18.4950119+05:30 0HNHBUCR1JB3G:00000005 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - null null (d509f86a)
+2025-11-25T12:51:18.4964096+05:30 0HNHBUCR1JB3G:00000009 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - null null (d509f86a)
+2025-11-25T12:51:18.4964094+05:30 0HNHBUCR1JB3G:00000007 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - null null (d509f86a)
+2025-11-25T12:51:18.4964095+05:30 0HNHBUCR1JB3G:0000000D [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - null null (d509f86a)
+2025-11-25T12:51:18.4964096+05:30 0HNHBUCR1JB3G:0000000B [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - null null (d509f86a)
+2025-11-25T12:51:18.5116422+05:30 0HNHBUCR1JB3G:0000000B [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - 200 16531 "application/javascript; charset=utf-8" 15.5825ms (74253ad3)
+2025-11-25T12:51:18.5921830+05:30 0HNHBUCR1JB3G:00000009 [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T12:51:18.5921860+05:30 0HNHBUCR1JB3G:00000005 [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T12:51:18.5953751+05:30 0HNHBUCR1JB3G:00000005 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - 200 152034 "text/css" 100.7354ms (74253ad3)
+2025-11-25T12:51:18.5953737+05:30 0HNHBUCR1JB3G:00000009 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - 200 230280 "text/javascript" 99.4366ms (74253ad3)
+2025-11-25T12:51:18.6468070+05:30 0HNHBUCR1JB3G:0000000D [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 150.74ms (74253ad3)
+2025-11-25T12:51:18.6589368+05:30 0HNHBUCR1JB3G:00000007 [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T12:51:18.6595007+05:30 0HNHBUCR1JB3G:00000007 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - 200 1456926 "text/javascript" 163.4456ms (74253ad3)
+2025-11-25T12:51:18.8212782+05:30 0HNHBUCR1JB3G:0000000F [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - null null (d509f86a)
+2025-11-25T12:51:18.8545345+05:30 0HNHBUCR1JB3G:0000000F [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 33.6497ms (74253ad3)
+2025-11-25T12:51:18.8671102+05:30 0HNHBUCR1JB3G:00000011 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/favicon-32x32.png""" - null null (d509f86a)
+2025-11-25T12:51:18.8682073+05:30 0HNHBUCR1JB3G:00000011 [INF] Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T12:51:18.8683892+05:30 0HNHBUCR1JB3G:00000011 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/favicon-32x32.png""" - 200 628 "image/png" 2.083ms (74253ad3)
+2025-11-25T12:58:43.4897324+05:30 0HNHBUCR1JB3I:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/api/Users""" - null null (d509f86a)
+2025-11-25T12:58:43.5466268+05:30 0HNHBUCR1JB3I:00000001 [INF] Authorization failed. "These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin|Manager)" (92d7f7d3)
+2025-11-25T12:58:43.5574904+05:30 0HNHBUCR1JB3I:00000001 [INF] AuthenticationScheme: "Bearer" was challenged. (d45f1f38)
+2025-11-25T12:58:43.5577807+05:30 0HNHBUCR1JB3I:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/api/Users""" - 401 0 null 71.65ms (74253ad3)
+2025-11-25T13:00:01.7976231+05:30  [INF] User profile is available. Using '"C:\Users\sivat\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. (7ac5e29c)
+2025-11-25T13:00:02.2302360+05:30  [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert. (f9d94507)
+2025-11-25T13:00:02.3293646+05:30  [INF] Now listening on: "https://localhost:7188" (d826f4b8)
+2025-11-25T13:00:02.3294325+05:30  [INF] Now listening on: "http://localhost:5070" (d826f4b8)
+2025-11-25T13:00:02.4549405+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-11-25T13:00:02.4555127+05:30  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-11-25T13:00:02.4556200+05:30  [INF] Content root path: "S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem" (cc26f24e)
+2025-11-25T13:00:02.8789185+05:30 0HNHBUHP6S604:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger""" - null null (d509f86a)
+2025-11-25T13:00:03.2162966+05:30 0HNHBUHP6S604:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger""" - 301 0 null 349.7096ms (74253ad3)
+2025-11-25T13:00:03.2259373+05:30 0HNHBUHP6S604:00000003 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - null null (d509f86a)
+2025-11-25T13:00:03.3196332+05:30 0HNHBUHP6S604:00000003 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 93.7652ms (74253ad3)
+2025-11-25T13:00:03.3531851+05:30 0HNHBUHP6S604:00000005 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - null null (d509f86a)
+2025-11-25T13:00:03.3549674+05:30 0HNHBUHP6S604:00000007 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - null null (d509f86a)
+2025-11-25T13:00:03.3569914+05:30 0HNHBUHP6S604:00000009 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - null null (d509f86a)
+2025-11-25T13:00:03.3569829+05:30 0HNHBUHP6S604:0000000B [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - null null (d509f86a)
+2025-11-25T13:00:03.4127917+05:30 0HNHBUHP6S604:0000000B [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - 200 16531 "application/javascript; charset=utf-8" 56.3619ms (74253ad3)
+2025-11-25T13:00:03.4750595+05:30 0HNHBUHP6S604:00000005 [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T13:00:03.4750594+05:30 0HNHBUHP6S604:00000009 [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T13:00:03.4802178+05:30 0HNHBUHP6S604:00000005 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - 200 152034 "text/css" 127.6253ms (74253ad3)
+2025-11-25T13:00:03.4802177+05:30 0HNHBUHP6S604:00000009 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - 200 230280 "text/javascript" 123.308ms (74253ad3)
+2025-11-25T13:00:03.4861139+05:30 0HNHBUHP6S604:0000000D [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - null null (d509f86a)
+2025-11-25T13:00:03.5371833+05:30 0HNHBUHP6S604:00000007 [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T13:00:03.5376309+05:30 0HNHBUHP6S604:00000007 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - 200 1456926 "text/javascript" 182.6102ms (74253ad3)
+2025-11-25T13:00:03.5780233+05:30 0HNHBUHP6S604:0000000D [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 92.1682ms (74253ad3)
+2025-11-25T13:00:03.7592277+05:30 0HNHBUHP6S606:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - null null (d509f86a)
+2025-11-25T13:00:03.7949615+05:30 0HNHBUHP6S606:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 36.4652ms (74253ad3)
+2025-11-25T13:01:42.7272827+05:30 0HNHBUHP6S608:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/api/Users""" - null null (d509f86a)
+2025-11-25T13:01:42.7361806+05:30 0HNHBUHP6S608:00000001 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.UsersController.GetAllUsers (RestaurantBookingSystem)"' (500cc934)
+2025-11-25T13:01:42.7712698+05:30 0HNHBUHP6S608:00000001 [INF] Route matched with "{action = \"GetAllUsers\", controller = \"Users\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAllUsers()" on controller "RestaurantBookingSystem.Controllers.UsersController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-11-25T13:01:45.3020515+05:30 0HNHBUHP6S608:00000001 [INF] Executed DbCommand ("128"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[UserId], [u].[CreatedAt], [u].[Email], [u].[FirstName], [u].[IsActive], [u].[LastLogin], [u].[LastName], [u].[Mobile], [u].[Password], [u].[RoleId]
+FROM [Users] AS [u]" (0723d8ff)
+2025-11-25T13:01:45.4136532+05:30 0HNHBUHP6S608:00000001 [INF] Executing "OkObjectResult", writing value of type '"RestaurantBookingSystem.Utils.ApiSuccessResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (605b4265)
+2025-11-25T13:01:45.6053447+05:30 0HNHBUHP6S608:00000001 [INF] Executed action "RestaurantBookingSystem.Controllers.UsersController.GetAllUsers (RestaurantBookingSystem)" in 2830.0073ms (afa2e885)
+2025-11-25T13:01:45.6058860+05:30 0HNHBUHP6S608:00000001 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.UsersController.GetAllUsers (RestaurantBookingSystem)"' (99874f2b)
+2025-11-25T13:01:45.6131672+05:30 0HNHBUHP6S608:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/api/Users""" - 200 734 "application/json; charset=utf-8" 2886.5982ms (74253ad3)
+2025-11-25T13:02:28.2302736+05:30 0HNHBUHP6S608:00000003 [INF] Request starting "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - "application/json-patch+json" 56 (d509f86a)
+2025-11-25T13:02:28.2334582+05:30 0HNHBUHP6S608:00000003 [INF] CORS policy execution failed. (09b6f179)
+2025-11-25T13:02:28.2338409+05:30 0HNHBUHP6S608:00000003 [INF] Request origin "https://localhost:7188" does not have permission to access the resource. (a03d560b)
+2025-11-25T13:02:28.2348042+05:30 0HNHBUHP6S608:00000003 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (500cc934)
+2025-11-25T13:02:28.2456544+05:30 0HNHBUHP6S608:00000003 [INF] Route matched with "{action = \"Login\", controller = \"Users\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Login(RestaurantBookingSystem.DTOs.LoginDTO)" on controller "RestaurantBookingSystem.Controllers.UsersController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-11-25T13:02:28.5446365+05:30 0HNHBUHP6S608:00000003 [INF] Executed DbCommand ("75"ms) [Parameters=["@__email_0='?' (Size = 150)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[CreatedAt], [u].[Email], [u].[FirstName], [u].[IsActive], [u].[LastLogin], [u].[LastName], [u].[Mobile], [u].[Password], [u].[RoleId], [r].[RoleId], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[RoleId]
+WHERE [u].[Email] = @__email_0" (0723d8ff)
+2025-11-25T13:02:28.7400310+05:30 0HNHBUHP6S608:00000003 [INF] Executed action "RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)" in 494.2005ms (afa2e885)
+2025-11-25T13:02:28.7416645+05:30 0HNHBUHP6S608:00000003 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (99874f2b)
+2025-11-25T13:02:28.9026033+05:30 0HNHBUHP6S608:00000003 [INF] Request finished "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - 200 null "application/json" 672.4721ms (74253ad3)
+2025-11-25T13:03:15.4987116+05:30 0HNHBUHP6S60A:00000001 [INF] Request starting "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/register""" - "application/json-patch+json" 110 (d509f86a)
+2025-11-25T13:03:15.5004523+05:30 0HNHBUHP6S60A:00000001 [INF] CORS policy execution failed. (09b6f179)
+2025-11-25T13:03:15.5005009+05:30 0HNHBUHP6S60A:00000001 [INF] Request origin "https://localhost:7188" does not have permission to access the resource. (a03d560b)
+2025-11-25T13:03:15.5006262+05:30 0HNHBUHP6S60A:00000001 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.UsersController.Register (RestaurantBookingSystem)"' (500cc934)
+2025-11-25T13:03:15.5060076+05:30 0HNHBUHP6S60A:00000001 [INF] Route matched with "{action = \"Register\", controller = \"Users\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Register(RestaurantBookingSystem.DTOs.RegisterDTO)" on controller "RestaurantBookingSystem.Controllers.UsersController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-11-25T13:03:15.5735032+05:30 0HNHBUHP6S60A:00000001 [INF] Executed DbCommand ("2"ms) [Parameters=["@__email_0='?' (Size = 150)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[CreatedAt], [u].[Email], [u].[FirstName], [u].[IsActive], [u].[LastLogin], [u].[LastName], [u].[Mobile], [u].[Password], [u].[RoleId], [r].[RoleId], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[RoleId]
+WHERE [u].[Email] = @__email_0" (0723d8ff)
+2025-11-25T13:03:16.0463104+05:30 0HNHBUHP6S60A:00000001 [INF] Executed DbCommand ("54"ms) [Parameters=["@p0='?' (DbType = DateTime2), @p1='?' (Size = 150), @p2='?' (Size = 100), @p3='?' (DbType = Boolean), @p4='?' (DbType = DateTime2), @p5='?' (Size = 100), @p6='?' (Size = 4000), @p7='?' (Size = 100), @p8='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Users] ([CreatedAt], [Email], [FirstName], [IsActive], [LastLogin], [LastName], [Mobile], [Password], [RoleId])
+OUTPUT INSERTED.[UserId]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);" (0723d8ff)
+2025-11-25T13:03:16.0696724+05:30 0HNHBUHP6S60A:00000001 [INF] Executing "OkObjectResult", writing value of type '"RestaurantBookingSystem.Utils.ApiSuccessResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (605b4265)
+2025-11-25T13:03:16.0700063+05:30 0HNHBUHP6S60A:00000001 [INF] Executed action "RestaurantBookingSystem.Controllers.UsersController.Register (RestaurantBookingSystem)" in 563.9249ms (afa2e885)
+2025-11-25T13:03:16.0700467+05:30 0HNHBUHP6S60A:00000001 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.UsersController.Register (RestaurantBookingSystem)"' (99874f2b)
+2025-11-25T13:03:16.0702001+05:30 0HNHBUHP6S60A:00000001 [INF] Request finished "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/register""" - 200 57 "application/json; charset=utf-8" 572.2799ms (74253ad3)
+2025-11-25T13:03:32.0429108+05:30 0HNHBUHP6S60C:00000001 [INF] Request starting "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - "application/json-patch+json" 63 (d509f86a)
+2025-11-25T13:03:32.0442387+05:30 0HNHBUHP6S60C:00000001 [INF] CORS policy execution failed. (09b6f179)
+2025-11-25T13:03:32.0443165+05:30 0HNHBUHP6S60C:00000001 [INF] Request origin "https://localhost:7188" does not have permission to access the resource. (a03d560b)
+2025-11-25T13:03:32.0445681+05:30 0HNHBUHP6S60C:00000001 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (500cc934)
+2025-11-25T13:03:32.0447946+05:30 0HNHBUHP6S60C:00000001 [INF] Route matched with "{action = \"Login\", controller = \"Users\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Login(RestaurantBookingSystem.DTOs.LoginDTO)" on controller "RestaurantBookingSystem.Controllers.UsersController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-11-25T13:03:32.0730914+05:30 0HNHBUHP6S60C:00000001 [INF] Executed DbCommand ("21"ms) [Parameters=["@__email_0='?' (Size = 150)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[CreatedAt], [u].[Email], [u].[FirstName], [u].[IsActive], [u].[LastLogin], [u].[LastName], [u].[Mobile], [u].[Password], [u].[RoleId], [r].[RoleId], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[RoleId]
+WHERE [u].[Email] = @__email_0" (0723d8ff)
+2025-11-25T13:03:32.1943966+05:30 0HNHBUHP6S60C:00000001 [INF] Executed action "RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)" in 149.5388ms (afa2e885)
+2025-11-25T13:03:32.1947439+05:30 0HNHBUHP6S60C:00000001 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (99874f2b)
+2025-11-25T13:03:32.2872136+05:30 0HNHBUHP6S60C:00000001 [INF] Request finished "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - 200 null "application/json" 244.7507ms (74253ad3)
+2025-11-25T13:04:02.7356527+05:30 0HNHBUHP6S60E:00000001 [INF] Request starting "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - "application/json-patch+json" 60 (d509f86a)
+2025-11-25T13:04:02.7362906+05:30 0HNHBUHP6S60E:00000001 [INF] CORS policy execution failed. (09b6f179)
+2025-11-25T13:04:02.7363090+05:30 0HNHBUHP6S60E:00000001 [INF] Request origin "https://localhost:7188" does not have permission to access the resource. (a03d560b)
+2025-11-25T13:04:02.7363598+05:30 0HNHBUHP6S60E:00000001 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (500cc934)
+2025-11-25T13:04:02.7364522+05:30 0HNHBUHP6S60E:00000001 [INF] Route matched with "{action = \"Login\", controller = \"Users\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Login(RestaurantBookingSystem.DTOs.LoginDTO)" on controller "RestaurantBookingSystem.Controllers.UsersController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-11-25T13:04:02.7440031+05:30 0HNHBUHP6S60E:00000001 [INF] Executed DbCommand ("5"ms) [Parameters=["@__email_0='?' (Size = 150)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[CreatedAt], [u].[Email], [u].[FirstName], [u].[IsActive], [u].[LastLogin], [u].[LastName], [u].[Mobile], [u].[Password], [u].[RoleId], [r].[RoleId], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[RoleId]
+WHERE [u].[Email] = @__email_0" (0723d8ff)
+2025-11-25T13:04:02.9025306+05:30 0HNHBUHP6S60E:00000001 [INF] Executed DbCommand ("20"ms) [Parameters=["@p1='?' (DbType = Int32), @p0='?' (DbType = DateTime2)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Users] SET [LastLogin] = @p0
+OUTPUT 1
+WHERE [UserId] = @p1;" (0723d8ff)
+2025-11-25T13:04:02.9482453+05:30 0HNHBUHP6S60E:00000001 [INF] Executing "OkObjectResult", writing value of type '"RestaurantBookingSystem.Utils.ApiSuccessResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (605b4265)
+2025-11-25T13:04:02.9554931+05:30 0HNHBUHP6S60E:00000001 [INF] Executed action "RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)" in 219.0027ms (afa2e885)
+2025-11-25T13:04:02.9555437+05:30 0HNHBUHP6S60E:00000001 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (99874f2b)
+2025-11-25T13:04:02.9557199+05:30 0HNHBUHP6S60E:00000001 [INF] Request finished "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - 200 414 "application/json; charset=utf-8" 220.644ms (74253ad3)
+2025-11-25T13:04:28.6081882+05:30 0HNHBUHP6S60G:00000001 [INF] Request starting "HTTP/2" "OPTIONS" "https"://"localhost:7188""""/api/Users/login""" - null null (d509f86a)
+2025-11-25T13:04:28.6084257+05:30 0HNHBUHP6S60G:00000001 [INF] CORS policy execution successful. (5409d6ef)
+2025-11-25T13:04:28.6100206+05:30 0HNHBUHP6S60G:00000001 [INF] Request finished "HTTP/2" "OPTIONS" "https"://"localhost:7188""""/api/Users/login""" - 204 null null 1.913ms (74253ad3)
+2025-11-25T13:04:28.6127256+05:30 0HNHBUHP6S60G:00000003 [INF] Request starting "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - "application/json" 51 (d509f86a)
+2025-11-25T13:04:28.6128946+05:30 0HNHBUHP6S60G:00000003 [INF] CORS policy execution successful. (5409d6ef)
+2025-11-25T13:04:28.6129478+05:30 0HNHBUHP6S60G:00000003 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (500cc934)
+2025-11-25T13:04:28.6130042+05:30 0HNHBUHP6S60G:00000003 [INF] Route matched with "{action = \"Login\", controller = \"Users\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Login(RestaurantBookingSystem.DTOs.LoginDTO)" on controller "RestaurantBookingSystem.Controllers.UsersController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-11-25T13:04:28.6203529+05:30 0HNHBUHP6S60G:00000003 [INF] Executed DbCommand ("6"ms) [Parameters=["@__email_0='?' (Size = 150)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[CreatedAt], [u].[Email], [u].[FirstName], [u].[IsActive], [u].[LastLogin], [u].[LastName], [u].[Mobile], [u].[Password], [u].[RoleId], [r].[RoleId], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[RoleId]
+WHERE [u].[Email] = @__email_0" (0723d8ff)
+2025-11-25T13:04:28.7541270+05:30 0HNHBUHP6S60G:00000003 [INF] Executed DbCommand ("3"ms) [Parameters=["@p1='?' (DbType = Int32), @p0='?' (DbType = DateTime2)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Users] SET [LastLogin] = @p0
+OUTPUT 1
+WHERE [UserId] = @p1;" (0723d8ff)
+2025-11-25T13:04:28.7548303+05:30 0HNHBUHP6S60G:00000003 [INF] Executing "OkObjectResult", writing value of type '"RestaurantBookingSystem.Utils.ApiSuccessResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (605b4265)
+2025-11-25T13:04:28.7551560+05:30 0HNHBUHP6S60G:00000003 [INF] Executed action "RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)" in 142.1213ms (afa2e885)
+2025-11-25T13:04:28.7552106+05:30 0HNHBUHP6S60G:00000003 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (99874f2b)
+2025-11-25T13:04:28.7553764+05:30 0HNHBUHP6S60G:00000003 [INF] Request finished "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - 200 415 "application/json; charset=utf-8" 143.2274ms (74253ad3)
+2025-11-25T15:01:03.0082657+05:30  [INF] User profile is available. Using '"C:\Users\sivat\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. (7ac5e29c)
+2025-11-25T15:01:03.3850561+05:30  [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert. (f9d94507)
+2025-11-25T15:01:03.4952854+05:30  [INF] Now listening on: "https://localhost:7188" (d826f4b8)
+2025-11-25T15:01:03.4953895+05:30  [INF] Now listening on: "http://localhost:5070" (d826f4b8)
+2025-11-25T15:01:03.6419937+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-11-25T15:01:03.6429157+05:30  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-11-25T15:01:03.6430281+05:30  [INF] Content root path: "S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem" (cc26f24e)
+2025-11-25T15:01:05.0084530+05:30 0HNHC0LD5GQH0:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger""" - null null (d509f86a)
+2025-11-25T15:01:05.4974101+05:30 0HNHC0LD5GQH0:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger""" - 301 0 null 499.6138ms (74253ad3)
+2025-11-25T15:01:05.5111464+05:30 0HNHC0LD5GQH0:00000003 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - null null (d509f86a)
+2025-11-25T15:01:05.6441918+05:30 0HNHC0LD5GQH0:00000003 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 133.1973ms (74253ad3)
+2025-11-25T15:01:05.6873997+05:30 0HNHC0LD5GQH0:00000005 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - null null (d509f86a)
+2025-11-25T15:01:05.6877755+05:30 0HNHC0LD5GQH0:00000009 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - null null (d509f86a)
+2025-11-25T15:01:05.6878184+05:30 0HNHC0LD5GQH0:00000007 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - null null (d509f86a)
+2025-11-25T15:01:05.6879348+05:30 0HNHC0LD5GQH0:0000000B [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - null null (d509f86a)
+2025-11-25T15:01:05.6968830+05:30 0HNHC0LD5GQH0:0000000D [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - null null (d509f86a)
+2025-11-25T15:01:05.7064982+05:30 0HNHC0LD5GQH0:0000000B [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - 200 16531 "application/javascript; charset=utf-8" 18.8188ms (74253ad3)
+2025-11-25T15:01:05.7806886+05:30 0HNHC0LD5GQH0:00000005 [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T15:01:05.7806886+05:30 0HNHC0LD5GQH0:00000009 [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T15:01:05.7877493+05:30 0HNHC0LD5GQH0:00000009 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - 200 230280 "text/javascript" 100.1238ms (74253ad3)
+2025-11-25T15:01:05.7877469+05:30 0HNHC0LD5GQH0:00000005 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - 200 152034 "text/css" 100.3332ms (74253ad3)
+2025-11-25T15:01:05.8798629+05:30 0HNHC0LD5GQH0:00000007 [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T15:01:05.8862246+05:30 0HNHC0LD5GQH0:00000007 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - 200 1456926 "text/javascript" 193.2062ms (74253ad3)
+2025-11-25T15:01:05.9075524+05:30 0HNHC0LD5GQH0:0000000D [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 213.2232ms (74253ad3)
+2025-11-25T15:01:06.1998017+05:30 0HNHC0LD5GQH0:0000000F [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - null null (d509f86a)
+2025-11-25T15:01:06.2335113+05:30 0HNHC0LD5GQH0:0000000F [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 34.436ms (74253ad3)
+2025-11-25T15:01:19.8523303+05:30 0HNHC0LD5GQH2:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - null null (d509f86a)
+2025-11-25T15:01:19.8622529+05:30 0HNHC0LD5GQH2:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 10.6054ms (74253ad3)
+2025-11-25T15:01:19.8949550+05:30 0HNHC0LD5GQH2:00000007 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - null null (d509f86a)
+2025-11-25T15:01:19.8950856+05:30 0HNHC0LD5GQH2:00000005 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - null null (d509f86a)
+2025-11-25T15:01:19.8947179+05:30 0HNHC0LD5GQH2:00000003 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - null null (d509f86a)
+2025-11-25T15:01:19.8961210+05:30 0HNHC0LD5GQH2:0000000B [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - null null (d509f86a)
+2025-11-25T15:01:19.8961211+05:30 0HNHC0LD5GQH2:00000009 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - null null (d509f86a)
+2025-11-25T15:01:19.9041782+05:30 0HNHC0LD5GQH2:00000009 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - 200 16531 "application/javascript; charset=utf-8" 8.118ms (74253ad3)
+2025-11-25T15:01:19.9145892+05:30 0HNHC0LD5GQH2:00000003 [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T15:01:19.9158401+05:30 0HNHC0LD5GQH2:00000003 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - 200 152034 "text/css" 20.6209ms (74253ad3)
+2025-11-25T15:01:19.9174800+05:30 0HNHC0LD5GQH2:00000007 [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T15:01:19.9182127+05:30 0HNHC0LD5GQH2:00000007 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - 200 230280 "text/javascript" 23.181ms (74253ad3)
+2025-11-25T15:01:19.9487182+05:30 0HNHC0LD5GQH2:0000000B [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 52.8394ms (74253ad3)
+2025-11-25T15:01:19.9567562+05:30 0HNHC0LD5GQH2:00000005 [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2025-11-25T15:01:19.9569657+05:30 0HNHC0LD5GQH2:00000005 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - 200 1456926 "text/javascript" 62.229ms (74253ad3)
+2025-11-25T15:01:20.1091761+05:30 0HNHC0LD5GQH2:0000000D [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - null null (d509f86a)
+2025-11-25T15:01:20.1179163+05:30 0HNHC0LD5GQH2:0000000D [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 9.4827ms (74253ad3)
+2025-11-25T15:02:59.5395366+05:30 0HNHC0LD5GQH4:00000001 [INF] Request starting "HTTP/2" "OPTIONS" "https"://"localhost:7188""""/api/Users/login""" - null null (d509f86a)
+2025-11-25T15:02:59.5468214+05:30 0HNHC0LD5GQH4:00000001 [INF] CORS policy execution successful. (5409d6ef)
+2025-11-25T15:02:59.5503589+05:30 0HNHC0LD5GQH4:00000001 [INF] Request finished "HTTP/2" "OPTIONS" "https"://"localhost:7188""""/api/Users/login""" - 204 null null 11.517ms (74253ad3)
+2025-11-25T15:02:59.5534457+05:30 0HNHC0LD5GQH4:00000003 [INF] Request starting "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - "application/json" 51 (d509f86a)
+2025-11-25T15:02:59.5550500+05:30 0HNHC0LD5GQH4:00000003 [INF] CORS policy execution successful. (5409d6ef)
+2025-11-25T15:02:59.5641132+05:30 0HNHC0LD5GQH4:00000003 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (500cc934)
+2025-11-25T15:02:59.6144523+05:30 0HNHC0LD5GQH4:00000003 [INF] Route matched with "{action = \"Login\", controller = \"Users\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Login(RestaurantBookingSystem.DTOs.LoginDTO)" on controller "RestaurantBookingSystem.Controllers.UsersController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-11-25T15:03:02.6979664+05:30 0HNHC0LD5GQH4:00000003 [INF] Executed DbCommand ("151"ms) [Parameters=["@__email_0='?' (Size = 150)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[CreatedAt], [u].[Email], [u].[FirstName], [u].[IsActive], [u].[LastLogin], [u].[LastName], [u].[Mobile], [u].[Password], [u].[RoleId], [r].[RoleId], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[RoleId]
+WHERE [u].[Email] = @__email_0" (0723d8ff)
+2025-11-25T15:03:03.2887512+05:30 0HNHC0LD5GQH4:00000003 [INF] Executed DbCommand ("23"ms) [Parameters=["@p1='?' (DbType = Int32), @p0='?' (DbType = DateTime2)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Users] SET [LastLogin] = @p0
+OUTPUT 1
+WHERE [UserId] = @p1;" (0723d8ff)
+2025-11-25T15:03:03.3379211+05:30 0HNHC0LD5GQH4:00000003 [INF] Executing "OkObjectResult", writing value of type '"RestaurantBookingSystem.Utils.ApiSuccessResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (605b4265)
+2025-11-25T15:03:03.3800330+05:30 0HNHC0LD5GQH4:00000003 [INF] Executed action "RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)" in 3761.8346ms (afa2e885)
+2025-11-25T15:03:03.3805479+05:30 0HNHC0LD5GQH4:00000003 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (99874f2b)
+2025-11-25T15:03:03.3886313+05:30 0HNHC0LD5GQH4:00000003 [INF] Request finished "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - 200 426 "application/json; charset=utf-8" 3835.2362ms (74253ad3)
