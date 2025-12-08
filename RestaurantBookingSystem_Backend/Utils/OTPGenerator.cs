@@ -1,0 +1,44 @@
+﻿using System.Security.Cryptography;
+using System.Text;
+
+
+namespace RestaurantBookingSystem.Utils
+{
+
+        public static class OTPGenerator
+        {
+            public static string GenerateTOTP(string mobileNo)
+            {
+                if (string.IsNullOrEmpty(mobileNo))
+                    throw new ArgumentNullException(nameof(mobileNo));
+
+                long timeStep = DateTimeOffset.UtcNow.ToUnixTimeSeconds() / 120;
+                string key = mobileNo + "MySuperSecretKey"; 
+
+                using (var hmac = new HMACSHA1(Encoding.UTF8.GetBytes(key)))
+                {
+                    var timeBytes = BitConverter.GetBytes(timeStep);
+                    if (BitConverter.IsLittleEndian)
+                        Array.Reverse(timeBytes);
+
+                    byte[] hash = hmac.ComputeHash(timeBytes);
+                    int offset = hash[hash.Length - 1] & 0xf;
+                    int binary =
+                        ((hash[offset] & 0x7f) << 24)
+                        | ((hash[offset + 1] & 0xff) << 16)
+                        | ((hash[offset + 2] & 0xff) << 8) 
+                        | (hash[offset + 3] & 0xff);
+
+                    int otp = binary % 1000000;
+                    return otp.ToString("D6");
+                }
+            }
+
+            public static bool VerifyTOTP(string mobileNo, string otp)
+            {
+                var currentOtp = GenerateTOTP(mobileNo);
+                Console.WriteLine("Entered otp : " + otp + " Expected otp: " + currentOtp);
+                return currentOtp == otp;
+            }
+        }
+    }

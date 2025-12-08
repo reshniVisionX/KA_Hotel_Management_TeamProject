@@ -15,19 +15,24 @@
     body {
       display: flex;
       flex-direction: column;
-      height: 100vh;
+      min-height: 100vh;
       background-color: rgb(252, 218, 218);
+    }
+    a{
+      color: inherit;
+      text-decoration: none;
     }
 
     #footer {
       padding: 0.5rem 1rem;
       text-align: center;
+      background-color: #f43f5e;
+      color: white;
+      margin-top: auto;
     }
 
     .content-wrapper {
-      flex: 1;
       display: flex;
-      overflow: auto;
     }
 
     .sidebar {
@@ -70,8 +75,8 @@
     .main {
       flex: 1;
       padding: 30px;
-      min-height: 800px;
       background-color: white;
+      min-height: 800px;
     }
 
     .main h2 {
@@ -127,13 +132,17 @@
   <div class="content-wrapper">
     <div class="sidebar">
       <img src="https://via.placeholder.com/100" alt="User Profile">
-      <h3>User_Name</h3>
-      <button>Dashboard</button>
-      <button>Bookings</button>
-      <button>Profile</button>
-      <button>Preferences</button>
-      <button>Support</button>
-      <button>Logout</button>
+      <h3>Stay & Dine</h3>
+      <button><a href="dashboard.html">Dashboard</a></button>
+      <button><a href="bookings.html">Bookings</a> </button>
+      <button><a href="edit-profile.html">Profile</a></button>
+      <button><a href="preferences.html">Preferences</a></button>
+      <button><a href="http://127.0.0.1:5501/Contact.html">Support</a></button>
+      <button><a href="http://127.0.0.1:5501/Login.html">Logout</a></button>
+      <button><a href="../ManagerPage/HMD.html">Manage Hotels</a></button>
+        <button><a href="../ManagerPage/RMD.html">Manage Restaurants</a></button>
+      <button><a href="http://127.0.0.1:5501/Admin.html">Admin</a></button>
+       <button><a href="http://127.0.0.1:5501/Hompg.html">Home</a></button>
     </div>
     <div class="main">
       <h2>Past Bookings</h2>
@@ -180,7 +189,8 @@
       `;
       bookingList.appendChild(div);
     });
- window.addEventListener("DOMContentLoaded", () => {
+
+    window.addEventListener("DOMContentLoaded", () => {
       fetch("../Navbar.html")
         .then(res => res.text())
         .then(data => document.getElementById("navbar").innerHTML = data);

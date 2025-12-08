@@ -1,0 +1,645 @@
+2025-12-02T10:57:33.7572200+05:30  [INF] User profile is available. Using '"C:\Users\sivat\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. (7ac5e29c)
+2025-12-02T10:57:36.5316665+05:30  [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert. (f9d94507)
+2025-12-02T10:57:36.7566951+05:30  [INF] Now listening on: "https://localhost:7188" (d826f4b8)
+2025-12-02T10:57:36.7568682+05:30  [INF] Now listening on: "http://localhost:5070" (d826f4b8)
+2025-12-02T10:57:37.2952250+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-12-02T10:57:37.2969440+05:30  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-12-02T10:57:37.2971523+05:30  [INF] Content root path: "S:\Dotnet Projects\RestaurantBookingSystem\RestaurantBookingSystem" (cc26f24e)
+2025-12-02T10:57:40.4139939+05:30 0HNHHCE0G11BV:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger""" - null null (d509f86a)
+2025-12-02T10:57:41.3937452+05:30 0HNHHCE0G11BV:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger""" - 301 0 null 1022.8134ms (74253ad3)
+2025-12-02T10:57:41.4094496+05:30 0HNHHCE0G11BV:00000003 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - null null (d509f86a)
+2025-12-02T10:57:41.5968701+05:30 0HNHHCE0G11BV:00000003 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 187.3942ms (74253ad3)
+2025-12-02T10:57:41.6512282+05:30 0HNHHCE0G11BV:00000005 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - null null (d509f86a)
+2025-12-02T10:57:41.6533223+05:30 0HNHHCE0G11BV:00000009 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - null null (d509f86a)
+2025-12-02T10:57:41.6536810+05:30 0HNHHCE0G11BV:00000007 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - null null (d509f86a)
+2025-12-02T10:57:41.6547825+05:30 0HNHHCE0G11BV:0000000B [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - null null (d509f86a)
+2025-12-02T10:57:41.6548055+05:30 0HNHHCE0G11BV:0000000D [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - null null (d509f86a)
+2025-12-02T10:57:41.6844250+05:30 0HNHHCE0G11BV:0000000B [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - 200 16531 "application/javascript; charset=utf-8" 30.0268ms (74253ad3)
+2025-12-02T10:57:41.8113486+05:30 0HNHHCE0G11BV:00000005 [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2025-12-02T10:57:41.8113484+05:30 0HNHHCE0G11BV:00000009 [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2025-12-02T10:57:41.8117974+05:30 0HNHHCE0G11BV:00000009 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-standalone-preset.js""" - 200 230280 "text/javascript" 158.7919ms (74253ad3)
+2025-12-02T10:57:41.8117972+05:30 0HNHHCE0G11BV:00000005 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui.css""" - 200 152034 "text/css" 162.3463ms (74253ad3)
+2025-12-02T10:57:42.1415893+05:30 0HNHHCE0G11BV:00000007 [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2025-12-02T10:57:42.1444449+05:30 0HNHHCE0G11BV:00000007 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/swagger-ui-bundle.js""" - 200 1456926 "text/javascript" 490.272ms (74253ad3)
+2025-12-02T10:57:42.1764784+05:30 0HNHHCE0G11BV:0000000D [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 521.6743ms (74253ad3)
+2025-12-02T10:57:42.7702800+05:30 0HNHHCE0G11BV:0000000F [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - null null (d509f86a)
+2025-12-02T10:57:42.8236955+05:30 0HNHHCE0G11BV:0000000F [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 54.4542ms (74253ad3)
+2025-12-02T10:58:16.2968735+05:30 0HNHHCE0G11C1:00000001 [INF] Request starting "HTTP/2" "OPTIONS" "https"://"localhost:7188""""/api/Users/login""" - null null (d509f86a)
+2025-12-02T10:58:16.3046508+05:30 0HNHHCE0G11C1:00000001 [INF] CORS policy execution successful. (5409d6ef)
+2025-12-02T10:58:16.3086031+05:30 0HNHHCE0G11C1:00000001 [INF] Request finished "HTTP/2" "OPTIONS" "https"://"localhost:7188""""/api/Users/login""" - 204 null null 12.658ms (74253ad3)
+2025-12-02T10:58:16.3131446+05:30 0HNHHCE0G11C1:00000003 [INF] Request starting "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - "application/json" 52 (d509f86a)
+2025-12-02T10:58:16.3167721+05:30 0HNHHCE0G11C1:00000003 [INF] CORS policy execution successful. (5409d6ef)
+2025-12-02T10:58:16.3286677+05:30 0HNHHCE0G11C1:00000003 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (500cc934)
+2025-12-02T10:58:16.3846875+05:30 0HNHHCE0G11C1:00000003 [INF] Route matched with "{action = \"Login\", controller = \"Users\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Login(RestaurantBookingSystem.DTOs.LoginDTO)" on controller "RestaurantBookingSystem.Controllers.UsersController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-12-02T10:58:19.9851656+05:30 0HNHHCE0G11C1:00000003 [INF] Executed DbCommand ("279"ms) [Parameters=["@__email_0='?' (Size = 150)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[CreatedAt], [u].[Email], [u].[FirstName], [u].[IsActive], [u].[LastLogin], [u].[LastName], [u].[Mobile], [u].[Password], [u].[RoleId], [r].[RoleId], [r].[Description], [r].[RoleName]
+FROM [Users] AS [u]
+INNER JOIN [Roles] AS [r] ON [u].[RoleId] = [r].[RoleId]
+WHERE [u].[Email] = @__email_0" (0723d8ff)
+2025-12-02T10:58:20.7748047+05:30 0HNHHCE0G11C1:00000003 [INF] Executed DbCommand ("35"ms) [Parameters=["@p1='?' (DbType = Int32), @p0='?' (DbType = DateTime2)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Users] SET [LastLogin] = @p0
+OUTPUT 1
+WHERE [UserId] = @p1;" (0723d8ff)
+2025-12-02T10:58:20.8446338+05:30 0HNHHCE0G11C1:00000003 [INF] Executing "OkObjectResult", writing value of type '"RestaurantBookingSystem.Utils.ApiSuccessResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (605b4265)
+2025-12-02T10:58:20.9189721+05:30 0HNHHCE0G11C1:00000003 [INF] Executed action "RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)" in 4526.7406ms (afa2e885)
+2025-12-02T10:58:20.9200681+05:30 0HNHHCE0G11C1:00000003 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.UsersController.Login (RestaurantBookingSystem)"' (99874f2b)
+2025-12-02T10:58:20.9335242+05:30 0HNHHCE0G11C1:00000003 [INF] Request finished "HTTP/2" "POST" "https"://"localhost:7188""""/api/Users/login""" - 200 456 "application/json; charset=utf-8" 4620.5795ms (74253ad3)
+2025-12-02T16:08:27.0279671+05:30  [INF] Executed DbCommand ("25"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2025-12-02T16:08:27.0545744+05:30  [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long. (a4825afd)
+2025-12-02T16:08:27.1023220+05:30  [INF] Executed DbCommand ("42"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""DECLARE @result int;
+EXEC @result = sp_getapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session', @LockMode = 'Exclusive';
+SELECT @result" (0723d8ff)
+2025-12-02T16:08:27.2288567+05:30  [INF] Executed DbCommand ("14"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;" (0723d8ff)
+2025-12-02T16:08:27.2409149+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2025-12-02T16:08:27.2426441+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2025-12-02T16:08:27.2588950+05:30  [INF] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];" (0723d8ff)
+2025-12-02T16:08:27.2787287+05:30  [INF] Applying migration '"20251030175334_Init_Restaurant"'. (0e2ac64d)
+2025-12-02T16:08:27.5197672+05:30  [ERR] Failed executing DbCommand ("24"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [DeliveryPerson] (
+    [DeliveryPersonId] int NOT NULL IDENTITY,
+    [DeliveryName] nvarchar(100) NOT NULL,
+    [MobileNo] nvarchar(10) NOT NULL,
+    [Email] nvarchar(100) NULL,
+    [LicenseNumber] nvarchar(15) NOT NULL,
+    [otp] int NULL,
+    [Status] nvarchar(max) NOT NULL,
+    [TotalDeliveries] int NOT NULL,
+    [AverageRating] float NOT NULL,
+    CONSTRAINT [PK_DeliveryPerson] PRIMARY KEY ([DeliveryPersonId])
+);" (627a98df)
+2025-12-02T16:09:13.3727856+05:30  [INF] Executed DbCommand ("29"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2025-12-02T16:09:13.5006112+05:30  [INF] Executed DbCommand ("38"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [Restaurantbookingsystem] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+END;" (0723d8ff)
+2025-12-02T16:09:13.6480611+05:30  [INF] Executed DbCommand ("147"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""DROP DATABASE [Restaurantbookingsystem];" (0723d8ff)
+2025-12-02T16:09:24.1801645+05:30  [INF] Executed DbCommand ("351"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""CREATE DATABASE [Restaurantbookingsystem];" (0723d8ff)
+2025-12-02T16:09:24.3212724+05:30  [INF] Executed DbCommand ("126"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [Restaurantbookingsystem] SET READ_COMMITTED_SNAPSHOT ON;
+END;" (0723d8ff)
+2025-12-02T16:09:24.3603996+05:30  [INF] Executed DbCommand ("13"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2025-12-02T16:09:24.3721284+05:30  [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long. (a4825afd)
+2025-12-02T16:09:24.4087937+05:30  [INF] Executed DbCommand ("30"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""DECLARE @result int;
+EXEC @result = sp_getapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session', @LockMode = 'Exclusive';
+SELECT @result" (0723d8ff)
+2025-12-02T16:09:24.5229448+05:30  [INF] Executed DbCommand ("13"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;" (0723d8ff)
+2025-12-02T16:09:24.5405137+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2025-12-02T16:09:24.5424125+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2025-12-02T16:09:24.5584440+05:30  [INF] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];" (0723d8ff)
+2025-12-02T16:09:24.5885062+05:30  [INF] Applying migration '"20251030175334_Init_Restaurant"'. (0e2ac64d)
+2025-12-02T16:09:24.8031814+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [DeliveryPerson] (
+    [DeliveryPersonId] int NOT NULL IDENTITY,
+    [DeliveryName] nvarchar(100) NOT NULL,
+    [MobileNo] nvarchar(10) NOT NULL,
+    [Email] nvarchar(100) NULL,
+    [LicenseNumber] nvarchar(15) NOT NULL,
+    [otp] int NULL,
+    [Status] nvarchar(max) NOT NULL,
+    [TotalDeliveries] int NOT NULL,
+    [AverageRating] float NOT NULL,
+    CONSTRAINT [PK_DeliveryPerson] PRIMARY KEY ([DeliveryPersonId])
+);" (0723d8ff)
+2025-12-02T16:09:24.8060309+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Roles] (
+    [RoleId] int NOT NULL IDENTITY,
+    [RoleName] nvarchar(100) NOT NULL,
+    [Description] nvarchar(255) NOT NULL,
+    CONSTRAINT [PK_Roles] PRIMARY KEY ([RoleId])
+);" (0723d8ff)
+2025-12-02T16:09:24.8124367+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Users] (
+    [UserId] int NOT NULL IDENTITY,
+    [FirstName] nvarchar(100) NULL,
+    [LastName] nvarchar(100) NULL,
+    [Email] nvarchar(150) NULL,
+    [Password] nvarchar(100) NULL,
+    [Mobile] nvarchar(max) NULL,
+    [RoleId] int NOT NULL,
+    [IsActive] bit NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [LastLogin] datetime2 NULL,
+    CONSTRAINT [PK_Users] PRIMARY KEY ([UserId]),
+    CONSTRAINT [FK_Users_Roles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [Roles] ([RoleId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:24.8163374+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [DeliveryAddress] (
+    [AddressId] int NOT NULL IDENTITY,
+    [UserId] int NOT NULL,
+    [Mobile] nvarchar(10) NOT NULL,
+    [Address] nvarchar(255) NOT NULL,
+    [City] nvarchar(100) NOT NULL,
+    [State] nvarchar(100) NOT NULL,
+    [Pincode] nvarchar(10) NOT NULL,
+    [Landmark] nvarchar(100) NULL,
+    [ContactNo] nvarchar(20) NULL,
+    [IsDefault] bit NOT NULL,
+    CONSTRAINT [PK_DeliveryAddress] PRIMARY KEY ([AddressId]),
+    CONSTRAINT [FK_DeliveryAddress_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:24.8397703+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [ManagerDetails] (
+    [ManagerId] int NOT NULL IDENTITY,
+    [ManagerName] nvarchar(50) NOT NULL,
+    [UserId] int NOT NULL,
+    [Email] nvarchar(100) NOT NULL,
+    [PhoneNumber] nvarchar(10) NOT NULL,
+    [PasswordHash] nvarchar(500) NOT NULL,
+    [IsActive] bit NOT NULL,
+    [CreatedAt] datetime2 NULL,
+    [UpdatedAt] datetime2 NULL,
+    [Verification] nvarchar(max) NULL,
+    CONSTRAINT [PK_ManagerDetails] PRIMARY KEY ([ManagerId]),
+    CONSTRAINT [FK_ManagerDetails_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:24.8444719+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Notifications] (
+    [NotificationId] int NOT NULL IDENTITY,
+    [UserId] int NOT NULL,
+    [Message] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_Notifications] PRIMARY KEY ([NotificationId]),
+    CONSTRAINT [FK_Notifications_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:24.8493293+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [UserPreferences] (
+    [PreferenceId] int NOT NULL IDENTITY,
+    [UserId] int NOT NULL,
+    [Theme] nvarchar(20) NOT NULL,
+    [NotificationsEnabled] bit NOT NULL,
+    [PreferredCity] nvarchar(100) NULL,
+    [PreferredFoodType] nvarchar(100) NULL,
+    CONSTRAINT [PK_UserPreferences] PRIMARY KEY ([PreferenceId]),
+    CONSTRAINT [FK_UserPreferences_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE NO ACTION
+);" (0723d8ff)
+2025-12-02T16:09:25.2735153+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Restaurants] (
+    [RestaurantId] int NOT NULL IDENTITY,
+    [RestaurantName] nvarchar(150) NOT NULL,
+    [Images] varbinary(max) NULL,
+    [Description] nvarchar(max) NULL,
+    [Ratings] decimal(3,1) NULL,
+    [RestaurantCategory] nvarchar(max) NOT NULL,
+    [RestaurantType] nvarchar(max) NOT NULL,
+    [Location] nvarchar(505) NOT NULL,
+    [City] nvarchar(30) NOT NULL,
+    [ContactNo] nvarchar(10) NOT NULL,
+    [DeliveryCharge] decimal(8,2) NULL,
+    [ManagerId] int NOT NULL,
+    [IsActive] bit NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_Restaurants] PRIMARY KEY ([RestaurantId]),
+    CONSTRAINT [FK_Restaurants_ManagerDetails_ManagerId] FOREIGN KEY ([ManagerId]) REFERENCES [ManagerDetails] ([ManagerId]) ON DELETE NO ACTION
+);" (0723d8ff)
+2025-12-02T16:09:25.2779661+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [DineIn] (
+    [TableId] int NOT NULL IDENTITY,
+    [RestaurantId] int NOT NULL,
+    [TableNo] nvarchar(50) NOT NULL,
+    [Capacity] int NOT NULL,
+    [Status] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_DineIn] PRIMARY KEY ([TableId]),
+    CONSTRAINT [FK_DineIn_Restaurants_RestaurantId] FOREIGN KEY ([RestaurantId]) REFERENCES [Restaurants] ([RestaurantId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:25.2844343+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [ManagerPayments] (
+    [ManagerPaymentId] int NOT NULL IDENTITY,
+    [ManagerId] int NOT NULL,
+    [RestaurantId] int NOT NULL,
+    [Amount] decimal(10,2) NOT NULL,
+    [PaymentDate] datetime2 NOT NULL,
+    [PaymentStatus] nvarchar(max) NOT NULL,
+    [Remarks] nvarchar(max) NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_ManagerPayments] PRIMARY KEY ([ManagerPaymentId]),
+    CONSTRAINT [FK_ManagerPayments_ManagerDetails_ManagerId] FOREIGN KEY ([ManagerId]) REFERENCES [ManagerDetails] ([ManagerId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_ManagerPayments_Restaurants_RestaurantId] FOREIGN KEY ([RestaurantId]) REFERENCES [Restaurants] ([RestaurantId]) ON DELETE NO ACTION
+);" (0723d8ff)
+2025-12-02T16:09:25.6819277+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [MenuList] (
+    [ItemId] int NOT NULL IDENTITY,
+    [RestaurantId] int NOT NULL,
+    [ItemName] nvarchar(150) NOT NULL,
+    [Description] nvarchar(max) NULL,
+    [AvailableQty] int NOT NULL,
+    [Discount] decimal(10,2) NOT NULL,
+    [Price] decimal(10,2) NOT NULL,
+    [IsVegetarian] bit NOT NULL,
+    [Tax] decimal(5,2) NOT NULL,
+    [Image] varbinary(max) NULL,
+    CONSTRAINT [PK_MenuList] PRIMARY KEY ([ItemId]),
+    CONSTRAINT [FK_MenuList_Restaurants_RestaurantId] FOREIGN KEY ([RestaurantId]) REFERENCES [Restaurants] ([RestaurantId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:25.6879307+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Orders] (
+    [OrderId] int NOT NULL IDENTITY,
+    [RestaurantId] int NOT NULL,
+    [ItemsList] nvarchar(max) NOT NULL,
+    [OrderType] nvarchar(max) NOT NULL,
+    [UserId] int NOT NULL,
+    [QtyOrdered] int NOT NULL,
+    [OrderDate] datetime2 NOT NULL,
+    [TotalAmount] decimal(10,2) NOT NULL,
+    [Status] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Orders] PRIMARY KEY ([OrderId]),
+    CONSTRAINT [FK_Orders_Restaurants_RestaurantId] FOREIGN KEY ([RestaurantId]) REFERENCES [Restaurants] ([RestaurantId]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Orders_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:25.9635365+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Review] (
+    [ReviewId] int NOT NULL IDENTITY,
+    [UserId] int NOT NULL,
+    [RestaurantId] int NOT NULL,
+    [Rating] decimal(3,1) NOT NULL,
+    [Comments] nvarchar(max) NULL,
+    [ReviewDate] datetime2 NOT NULL,
+    CONSTRAINT [PK_Review] PRIMARY KEY ([ReviewId]),
+    CONSTRAINT [FK_Review_Restaurants_RestaurantId] FOREIGN KEY ([RestaurantId]) REFERENCES [Restaurants] ([RestaurantId]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Review_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:25.9694423+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Reservation] (
+    [ReservationId] int NOT NULL IDENTITY,
+    [UserId] int NOT NULL,
+    [TableId] int NOT NULL,
+    [ReservationDate] datetime2 NOT NULL,
+    [ReservationInTime] time NOT NULL,
+    [ReservationOutTime] time NOT NULL,
+    [Status] nvarchar(max) NOT NULL,
+    [ReseveredAt] datetime2 NOT NULL,
+    [AdvancePayment] bit NOT NULL,
+    CONSTRAINT [PK_Reservation] PRIMARY KEY ([ReservationId]),
+    CONSTRAINT [FK_Reservation_DineIn_TableId] FOREIGN KEY ([TableId]) REFERENCES [DineIn] ([TableId]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Reservation_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:26.4292254+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Cart] (
+    [CartId] int NOT NULL IDENTITY,
+    [UserId] int NOT NULL,
+    [ItemId] int NOT NULL,
+    [RestaurantId] int NOT NULL,
+    [Quantity] int NOT NULL,
+    [AddedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_Cart] PRIMARY KEY ([CartId]),
+    CONSTRAINT [FK_Cart_MenuList_ItemId] FOREIGN KEY ([ItemId]) REFERENCES [MenuList] ([ItemId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Cart_Restaurants_RestaurantId] FOREIGN KEY ([RestaurantId]) REFERENCES [Restaurants] ([RestaurantId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Cart_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE NO ACTION
+);" (0723d8ff)
+2025-12-02T16:09:26.4355244+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Wishlist] (
+    [WishlistId] int NOT NULL IDENTITY,
+    [UserId] int NOT NULL,
+    [ItemId] int NOT NULL,
+    [RestaurantId] int NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_Wishlist] PRIMARY KEY ([WishlistId]),
+    CONSTRAINT [FK_Wishlist_MenuList_ItemId] FOREIGN KEY ([ItemId]) REFERENCES [MenuList] ([ItemId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Wishlist_Restaurants_RestaurantId] FOREIGN KEY ([RestaurantId]) REFERENCES [Restaurants] ([RestaurantId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Wishlist_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE NO ACTION
+);" (0723d8ff)
+2025-12-02T16:09:26.4411683+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Delivery] (
+    [DeliveryId] int NOT NULL IDENTITY,
+    [OrderId] int NOT NULL,
+    [DeliveryPersonId] int NOT NULL,
+    [DeliveryStatus] nvarchar(max) NOT NULL,
+    [EstimatedDeliveryTime] datetime2 NULL,
+    [DeliveredAt] datetime2 NULL,
+    [Instructions] nvarchar(max) NULL,
+    [AddressId] int NULL,
+    CONSTRAINT [PK_Delivery] PRIMARY KEY ([DeliveryId]),
+    CONSTRAINT [FK_Delivery_DeliveryAddress_AddressId] FOREIGN KEY ([AddressId]) REFERENCES [DeliveryAddress] ([AddressId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Delivery_DeliveryPerson_DeliveryPersonId] FOREIGN KEY ([DeliveryPersonId]) REFERENCES [DeliveryPerson] ([DeliveryPersonId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Delivery_Orders_OrderId] FOREIGN KEY ([OrderId]) REFERENCES [Orders] ([OrderId]) ON DELETE NO ACTION
+);" (0723d8ff)
+2025-12-02T16:09:26.6993778+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Payment] (
+    [PaymentId] int NOT NULL IDENTITY,
+    [OrderId] int NOT NULL,
+    [Amount] decimal(10,2) NOT NULL,
+    [PaymentDate] datetime2 NOT NULL,
+    [PayMethod] nvarchar(max) NOT NULL,
+    [Status] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Payment] PRIMARY KEY ([PaymentId]),
+    CONSTRAINT [FK_Payment_Orders_OrderId] FOREIGN KEY ([OrderId]) REFERENCES [Orders] ([OrderId]) ON DELETE CASCADE
+);" (0723d8ff)
+2025-12-02T16:09:26.7870095+05:30  [INF] Executed DbCommand ("87"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'DeliveryPersonId', N'AverageRating', N'DeliveryName', N'Email', N'LicenseNumber', N'MobileNo', N'Status', N'TotalDeliveries', N'otp') AND [object_id] = OBJECT_ID(N'[DeliveryPerson]'))
+    SET IDENTITY_INSERT [DeliveryPerson] ON;
+INSERT INTO [DeliveryPerson] ([DeliveryPersonId], [AverageRating], [DeliveryName], [Email], [LicenseNumber], [MobileNo], [Status], [TotalDeliveries], [otp])
+VALUES (1, 4.7999999999999998E0, N'Arjun Kumar', N'arjun@delivery.com', N'TN45DL7890', N'9876543210', N'Available', 100, NULL);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'DeliveryPersonId', N'AverageRating', N'DeliveryName', N'Email', N'LicenseNumber', N'MobileNo', N'Status', N'TotalDeliveries', N'otp') AND [object_id] = OBJECT_ID(N'[DeliveryPerson]'))
+    SET IDENTITY_INSERT [DeliveryPerson] OFF;" (0723d8ff)
+2025-12-02T16:09:26.9963787+05:30  [INF] Executed DbCommand ("30"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'RoleId', N'Description', N'RoleName') AND [object_id] = OBJECT_ID(N'[Roles]'))
+    SET IDENTITY_INSERT [Roles] ON;
+INSERT INTO [Roles] ([RoleId], [Description], [RoleName])
+VALUES (1, N'Standard customer account', N'Customer'),
+(2, N'Manages Restaurant', N'Manager'),
+(3, N'Restaurant administrator', N'Admin');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'RoleId', N'Description', N'RoleName') AND [object_id] = OBJECT_ID(N'[Roles]'))
+    SET IDENTITY_INSERT [Roles] OFF;" (0723d8ff)
+2025-12-02T16:09:27.0400212+05:30  [INF] Executed DbCommand ("43"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'UserId', N'CreatedAt', N'Email', N'FirstName', N'IsActive', N'LastLogin', N'LastName', N'Mobile', N'Password', N'RoleId') AND [object_id] = OBJECT_ID(N'[Users]'))
+    SET IDENTITY_INSERT [Users] ON;
+INSERT INTO [Users] ([UserId], [CreatedAt], [Email], [FirstName], [IsActive], [LastLogin], [LastName], [Mobile], [Password], [RoleId])
+VALUES (1, '2023-01-01T12:00:00.0000000', N'john@example.com', N'John', CAST(1 AS bit), '2023-01-01T12:00:00.0000000', N'Doe', NULL, N'hashedPassword1', 2),
+(2, '2023-01-01T12:00:00.0000000', N'admin@example.com', N'Admin', CAST(1 AS bit), '2023-01-02T12:00:00.0000000', N'', NULL, N'hashedPassword2', 1);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'UserId', N'CreatedAt', N'Email', N'FirstName', N'IsActive', N'LastLogin', N'LastName', N'Mobile', N'Password', N'RoleId') AND [object_id] = OBJECT_ID(N'[Users]'))
+    SET IDENTITY_INSERT [Users] OFF;" (0723d8ff)
+2025-12-02T16:09:27.2906604+05:30  [INF] Executed DbCommand ("47"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'AddressId', N'Address', N'City', N'ContactNo', N'IsDefault', N'Landmark', N'Mobile', N'Pincode', N'State', N'UserId') AND [object_id] = OBJECT_ID(N'[DeliveryAddress]'))
+    SET IDENTITY_INSERT [DeliveryAddress] ON;
+INSERT INTO [DeliveryAddress] ([AddressId], [Address], [City], [ContactNo], [IsDefault], [Landmark], [Mobile], [Pincode], [State], [UserId])
+VALUES (1, N'123 MG Road', N'Chennai', N'9876543210', CAST(1 AS bit), N'Near Park', N'9876543210', N'600001', N'Tamil Nadu', 1),
+(2, N'456 T Nagar', N'Chennai', N'9876543220', CAST(0 AS bit), N'Near Mall', N'9876543220', N'600017', N'Tamil Nadu', 1);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'AddressId', N'Address', N'City', N'ContactNo', N'IsDefault', N'Landmark', N'Mobile', N'Pincode', N'State', N'UserId') AND [object_id] = OBJECT_ID(N'[DeliveryAddress]'))
+    SET IDENTITY_INSERT [DeliveryAddress] OFF;" (0723d8ff)
+2025-12-02T16:09:27.3289188+05:30  [INF] Executed DbCommand ("38"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'ManagerId', N'CreatedAt', N'Email', N'IsActive', N'ManagerName', N'PasswordHash', N'PhoneNumber', N'UpdatedAt', N'UserId', N'Verification') AND [object_id] = OBJECT_ID(N'[ManagerDetails]'))
+    SET IDENTITY_INSERT [ManagerDetails] ON;
+INSERT INTO [ManagerDetails] ([ManagerId], [CreatedAt], [Email], [IsActive], [ManagerName], [PasswordHash], [PhoneNumber], [UpdatedAt], [UserId], [Verification])
+VALUES (1, '2023-01-01T12:00:00.0000000', N'arjun@manager.com', CAST(1 AS bit), N'Arjun Kumar', N'hashed123', N'9876543210', '2023-01-01T12:00:00.0000000', 1, N'Unverified');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'ManagerId', N'CreatedAt', N'Email', N'IsActive', N'ManagerName', N'PasswordHash', N'PhoneNumber', N'UpdatedAt', N'UserId', N'Verification') AND [object_id] = OBJECT_ID(N'[ManagerDetails]'))
+    SET IDENTITY_INSERT [ManagerDetails] OFF;" (0723d8ff)
+2025-12-02T16:09:27.5078070+05:30  [INF] Executed DbCommand ("41"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'PreferenceId', N'NotificationsEnabled', N'PreferredCity', N'PreferredFoodType', N'Theme', N'UserId') AND [object_id] = OBJECT_ID(N'[UserPreferences]'))
+    SET IDENTITY_INSERT [UserPreferences] ON;
+INSERT INTO [UserPreferences] ([PreferenceId], [NotificationsEnabled], [PreferredCity], [PreferredFoodType], [Theme], [UserId])
+VALUES (1, CAST(1 AS bit), N'Chennai', N'Indian', N'Light', 1),
+(2, CAST(0 AS bit), N'Bangalore', N'Desserts', N'Dark', 2);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'PreferenceId', N'NotificationsEnabled', N'PreferredCity', N'PreferredFoodType', N'Theme', N'UserId') AND [object_id] = OBJECT_ID(N'[UserPreferences]'))
+    SET IDENTITY_INSERT [UserPreferences] OFF;" (0723d8ff)
+2025-12-02T16:09:27.5545741+05:30  [INF] Executed DbCommand ("46"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'RestaurantId', N'City', N'ContactNo', N'CreatedAt', N'DeliveryCharge', N'Description', N'Images', N'IsActive', N'Location', N'ManagerId', N'Ratings', N'RestaurantCategory', N'RestaurantName', N'RestaurantType') AND [object_id] = OBJECT_ID(N'[Restaurants]'))
+    SET IDENTITY_INSERT [Restaurants] ON;
+INSERT INTO [Restaurants] ([RestaurantId], [City], [ContactNo], [CreatedAt], [DeliveryCharge], [Description], [Images], [IsActive], [Location], [ManagerId], [Ratings], [RestaurantCategory], [RestaurantName], [RestaurantType])
+VALUES (1, N'Chennai', N'9876543210', '2023-01-01T12:00:00.0000000', 50.0, N'Authentic Indian Cuisine', NULL, CAST(1 AS bit), N'MG Road, Chennai', 1, 9.2, N'Restaurant', N'Spice Garden', N'Both');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'RestaurantId', N'City', N'ContactNo', N'CreatedAt', N'DeliveryCharge', N'Description', N'Images', N'IsActive', N'Location', N'ManagerId', N'Ratings', N'RestaurantCategory', N'RestaurantName', N'RestaurantType') AND [object_id] = OBJECT_ID(N'[Restaurants]'))
+    SET IDENTITY_INSERT [Restaurants] OFF;" (0723d8ff)
+2025-12-02T16:09:27.6736251+05:30  [INF] Executed DbCommand ("33"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'TableId', N'Capacity', N'RestaurantId', N'Status', N'TableNo') AND [object_id] = OBJECT_ID(N'[DineIn]'))
+    SET IDENTITY_INSERT [DineIn] ON;
+INSERT INTO [DineIn] ([TableId], [Capacity], [RestaurantId], [Status], [TableNo])
+VALUES (1, 4, 1, N'Available', N'T1'),
+(2, 6, 1, N'Reserved', N'T2');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'TableId', N'Capacity', N'RestaurantId', N'Status', N'TableNo') AND [object_id] = OBJECT_ID(N'[DineIn]'))
+    SET IDENTITY_INSERT [DineIn] OFF;" (0723d8ff)
+2025-12-02T16:09:27.7103743+05:30  [INF] Executed DbCommand ("36"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'ItemId', N'AvailableQty', N'Description', N'Discount', N'Image', N'IsVegetarian', N'ItemName', N'Price', N'RestaurantId', N'Tax') AND [object_id] = OBJECT_ID(N'[MenuList]'))
+    SET IDENTITY_INSERT [MenuList] ON;
+INSERT INTO [MenuList] ([ItemId], [AvailableQty], [Description], [Discount], [Image], [IsVegetarian], [ItemName], [Price], [RestaurantId], [Tax])
+VALUES (1, 50, N'Classic Indian curry', 10.0, NULL, CAST(0 AS bit), N'Butter Chicken', 250.0, 1, 18.0),
+(2, 30, N'Rich chocolate dessert', 5.0, NULL, CAST(1 AS bit), N'Chocolate Cake', 150.0, 1, 5.0);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'ItemId', N'AvailableQty', N'Description', N'Discount', N'Image', N'IsVegetarian', N'ItemName', N'Price', N'RestaurantId', N'Tax') AND [object_id] = OBJECT_ID(N'[MenuList]'))
+    SET IDENTITY_INSERT [MenuList] OFF;" (0723d8ff)
+2025-12-02T16:09:27.8214382+05:30  [INF] Executed DbCommand ("35"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'OrderId', N'ItemsList', N'OrderDate', N'OrderType', N'QtyOrdered', N'RestaurantId', N'Status', N'TotalAmount', N'UserId') AND [object_id] = OBJECT_ID(N'[Orders]'))
+    SET IDENTITY_INSERT [Orders] ON;
+INSERT INTO [Orders] ([OrderId], [ItemsList], [OrderDate], [OrderType], [QtyOrdered], [RestaurantId], [Status], [TotalAmount], [UserId])
+VALUES (1, N'[{\"ItemId\":1,\"Quantity\":2}]', '2023-01-01T12:00:00.0000000', N'DineIn', 2, 1, N'InProgress', 536.0, 1),
+(2, N'[{\"ItemId\":2,\"Quantity\":1}]', '2023-01-02T12:00:00.0000000', N'DineOut', 1, 1, N'Pending', 157.0, 1);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'OrderId', N'ItemsList', N'OrderDate', N'OrderType', N'QtyOrdered', N'RestaurantId', N'Status', N'TotalAmount', N'UserId') AND [object_id] = OBJECT_ID(N'[Orders]'))
+    SET IDENTITY_INSERT [Orders] OFF;" (0723d8ff)
+2025-12-02T16:09:27.8546284+05:30  [INF] Executed DbCommand ("33"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'ReviewId', N'Comments', N'Rating', N'RestaurantId', N'ReviewDate', N'UserId') AND [object_id] = OBJECT_ID(N'[Review]'))
+    SET IDENTITY_INSERT [Review] ON;
+INSERT INTO [Review] ([ReviewId], [Comments], [Rating], [RestaurantId], [ReviewDate], [UserId])
+VALUES (1, N'Excellent food and service!', 9.0, 1, '2023-01-01T12:00:00.0000000', 1),
+(2, N'Loved the desserts', 8.0, 1, '2023-01-02T12:00:00.0000000', 1);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'ReviewId', N'Comments', N'Rating', N'RestaurantId', N'ReviewDate', N'UserId') AND [object_id] = OBJECT_ID(N'[Review]'))
+    SET IDENTITY_INSERT [Review] OFF;" (0723d8ff)
+2025-12-02T16:09:27.9866153+05:30  [INF] Executed DbCommand ("43"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'CartId', N'AddedAt', N'ItemId', N'Quantity', N'RestaurantId', N'UserId') AND [object_id] = OBJECT_ID(N'[Cart]'))
+    SET IDENTITY_INSERT [Cart] ON;
+INSERT INTO [Cart] ([CartId], [AddedAt], [ItemId], [Quantity], [RestaurantId], [UserId])
+VALUES (1, '2023-01-01T12:00:00.0000000', 1, 2, 1, 1),
+(2, '2023-01-02T12:00:00.0000000', 2, 1, 1, 1);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'CartId', N'AddedAt', N'ItemId', N'Quantity', N'RestaurantId', N'UserId') AND [object_id] = OBJECT_ID(N'[Cart]'))
+    SET IDENTITY_INSERT [Cart] OFF;" (0723d8ff)
+2025-12-02T16:09:28.0290869+05:30  [INF] Executed DbCommand ("42"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'PaymentId', N'Amount', N'OrderId', N'PayMethod', N'PaymentDate', N'Status') AND [object_id] = OBJECT_ID(N'[Payment]'))
+    SET IDENTITY_INSERT [Payment] ON;
+INSERT INTO [Payment] ([PaymentId], [Amount], [OrderId], [PayMethod], [PaymentDate], [Status])
+VALUES (1, 536.0, 1, N'UPI', '2023-01-01T12:00:00.0000000', N'Completed'),
+(2, 157.0, 2, N'Cash', '2023-01-02T12:00:00.0000000', N'Pending');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'PaymentId', N'Amount', N'OrderId', N'PayMethod', N'PaymentDate', N'Status') AND [object_id] = OBJECT_ID(N'[Payment]'))
+    SET IDENTITY_INSERT [Payment] OFF;" (0723d8ff)
+2025-12-02T16:09:28.1415487+05:30  [INF] Executed DbCommand ("28"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'WishlistId', N'CreatedAt', N'ItemId', N'RestaurantId', N'UserId') AND [object_id] = OBJECT_ID(N'[Wishlist]'))
+    SET IDENTITY_INSERT [Wishlist] ON;
+INSERT INTO [Wishlist] ([WishlistId], [CreatedAt], [ItemId], [RestaurantId], [UserId])
+VALUES (1, '2023-01-01T12:00:00.0000000', 1, 1, 1);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'WishlistId', N'CreatedAt', N'ItemId', N'RestaurantId', N'UserId') AND [object_id] = OBJECT_ID(N'[Wishlist]'))
+    SET IDENTITY_INSERT [Wishlist] OFF;" (0723d8ff)
+2025-12-02T16:09:28.1863628+05:30  [INF] Executed DbCommand ("44"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Cart_ItemId] ON [Cart] ([ItemId]);" (0723d8ff)
+2025-12-02T16:09:28.1918275+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Cart_RestaurantId] ON [Cart] ([RestaurantId]);" (0723d8ff)
+2025-12-02T16:09:28.1970519+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Cart_UserId] ON [Cart] ([UserId]);" (0723d8ff)
+2025-12-02T16:09:28.2002903+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Delivery_AddressId] ON [Delivery] ([AddressId]);" (0723d8ff)
+2025-12-02T16:09:28.2026959+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Delivery_DeliveryPersonId] ON [Delivery] ([DeliveryPersonId]);" (0723d8ff)
+2025-12-02T16:09:28.2044928+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Delivery_OrderId] ON [Delivery] ([OrderId]);" (0723d8ff)
+2025-12-02T16:09:28.3167189+05:30  [INF] Executed DbCommand ("9"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_DeliveryAddress_UserId] ON [DeliveryAddress] ([UserId]);" (0723d8ff)
+2025-12-02T16:09:28.3224841+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_DeliveryPerson_MobileNo] ON [DeliveryPerson] ([MobileNo]);" (0723d8ff)
+2025-12-02T16:09:28.3283516+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_DineIn_RestaurantId_TableNo] ON [DineIn] ([RestaurantId], [TableNo]);" (0723d8ff)
+2025-12-02T16:09:28.3347692+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_ManagerDetails_Email] ON [ManagerDetails] ([Email]);" (0723d8ff)
+2025-12-02T16:09:28.3414804+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_ManagerDetails_UserId] ON [ManagerDetails] ([UserId]);" (0723d8ff)
+2025-12-02T16:09:28.3434393+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_ManagerPayments_ManagerId] ON [ManagerPayments] ([ManagerId]);" (0723d8ff)
+2025-12-02T16:09:28.3458924+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_ManagerPayments_RestaurantId] ON [ManagerPayments] ([RestaurantId]);" (0723d8ff)
+2025-12-02T16:09:28.3511069+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_MenuList_RestaurantId] ON [MenuList] ([RestaurantId]);" (0723d8ff)
+2025-12-02T16:09:28.3533228+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Notifications_UserId] ON [Notifications] ([UserId]);" (0723d8ff)
+2025-12-02T16:09:28.3595892+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Orders_RestaurantId] ON [Orders] ([RestaurantId]);" (0723d8ff)
+2025-12-02T16:09:28.6244590+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Orders_UserId] ON [Orders] ([UserId]);" (0723d8ff)
+2025-12-02T16:09:28.6288636+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Payment_OrderId] ON [Payment] ([OrderId]);" (0723d8ff)
+2025-12-02T16:09:28.6305491+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Reservation_TableId] ON [Reservation] ([TableId]);" (0723d8ff)
+2025-12-02T16:09:28.6321267+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Reservation_UserId] ON [Reservation] ([UserId]);" (0723d8ff)
+2025-12-02T16:09:28.6385661+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Restaurants_ManagerId] ON [Restaurants] ([ManagerId]);" (0723d8ff)
+2025-12-02T16:09:28.6437293+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_Restaurants_RestaurantName] ON [Restaurants] ([RestaurantName]);" (0723d8ff)
+2025-12-02T16:09:28.6546150+05:30  [INF] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Review_RestaurantId] ON [Review] ([RestaurantId]);" (0723d8ff)
+2025-12-02T16:09:28.6620913+05:30  [INF] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Review_UserId] ON [Review] ([UserId]);" (0723d8ff)
+2025-12-02T16:09:28.6737004+05:30  [INF] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_Roles_RoleName] ON [Roles] ([RoleName]);" (0723d8ff)
+2025-12-02T16:09:28.6854058+05:30  [INF] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_UserPreferences_UserId] ON [UserPreferences] ([UserId]);" (0723d8ff)
+2025-12-02T16:09:29.0891082+05:30  [INF] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_Users_Email] ON [Users] ([Email]) WHERE [Email] IS NOT NULL;" (0723d8ff)
+2025-12-02T16:09:29.0947988+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Users_RoleId] ON [Users] ([RoleId]);" (0723d8ff)
+2025-12-02T16:09:29.0994322+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Wishlist_ItemId] ON [Wishlist] ([ItemId]);" (0723d8ff)
+2025-12-02T16:09:29.1034433+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_Wishlist_RestaurantId] ON [Wishlist] ([RestaurantId]);" (0723d8ff)
+2025-12-02T16:09:29.1085437+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_Wishlist_UserId_ItemId_RestaurantId] ON [Wishlist] ([UserId], [ItemId], [RestaurantId]);" (0723d8ff)
+2025-12-02T16:09:29.1114704+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20251030175334_Init_Restaurant', N'9.0.8');" (0723d8ff)
+2025-12-02T16:09:29.1119749+05:30  [INF] Applying migration '"20251031062736_ContextUpd"'. (0e2ac64d)
+2025-12-02T16:09:29.2053747+05:30  [INF] Executed DbCommand ("14"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Orders] DROP CONSTRAINT [FK_Orders_Restaurants_RestaurantId];" (0723d8ff)
+2025-12-02T16:09:29.2078309+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Orders] DROP CONSTRAINT [FK_Orders_Users_UserId];" (0723d8ff)
+2025-12-02T16:09:29.2096165+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Payment] DROP CONSTRAINT [FK_Payment_Orders_OrderId];" (0723d8ff)
+2025-12-02T16:09:29.2116316+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Reservation] DROP CONSTRAINT [FK_Reservation_DineIn_TableId];" (0723d8ff)
+2025-12-02T16:09:29.7244914+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Reservation] DROP CONSTRAINT [FK_Reservation_Users_UserId];" (0723d8ff)
+2025-12-02T16:09:29.7270092+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Users] DROP CONSTRAINT [FK_Users_Roles_RoleId];" (0723d8ff)
+2025-12-02T16:09:29.7386256+05:30  [INF] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Orders] ADD CONSTRAINT [FK_Orders_Restaurants_RestaurantId] FOREIGN KEY ([RestaurantId]) REFERENCES [Restaurants] ([RestaurantId]) ON DELETE NO ACTION;" (0723d8ff)
+2025-12-02T16:09:29.7439344+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Orders] ADD CONSTRAINT [FK_Orders_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE NO ACTION;" (0723d8ff)
+2025-12-02T16:09:29.7479728+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Payment] ADD CONSTRAINT [FK_Payment_Orders_OrderId] FOREIGN KEY ([OrderId]) REFERENCES [Orders] ([OrderId]) ON DELETE NO ACTION;" (0723d8ff)
+2025-12-02T16:09:29.7502783+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Reservation] ADD CONSTRAINT [FK_Reservation_DineIn_TableId] FOREIGN KEY ([TableId]) REFERENCES [DineIn] ([TableId]) ON DELETE NO ACTION;" (0723d8ff)
+2025-12-02T16:09:29.7523781+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Reservation] ADD CONSTRAINT [FK_Reservation_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([UserId]) ON DELETE NO ACTION;" (0723d8ff)
+2025-12-02T16:09:29.7567916+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Users] ADD CONSTRAINT [FK_Users_Roles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [Roles] ([RoleId]) ON DELETE NO ACTION;" (0723d8ff)
+2025-12-02T16:09:29.9847085+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20251031062736_ContextUpd', N'9.0.8');" (0723d8ff)
+2025-12-02T16:09:29.9848821+05:30  [INF] Applying migration '"20251202103803_initial"'. (0e2ac64d)
+2025-12-02T16:09:30.0198107+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20251202103803_initial', N'9.0.8');" (0723d8ff)
+2025-12-02T16:09:30.0277757+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""DECLARE @result int;
+EXEC @result = sp_releaseapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session';
+SELECT @result" (0723d8ff)
+2025-12-02T16:52:26.3813231+05:30  [INF] User profile is available. Using '"C:\Users\pradeep.DESKTOP-BE5N6B8\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. (7ac5e29c)
+2025-12-02T16:52:26.8476413+05:30  [INF] Now listening on: "https://localhost:7188" (d826f4b8)
+2025-12-02T16:52:26.8478557+05:30  [INF] Now listening on: "http://localhost:5070" (d826f4b8)
+2025-12-02T16:52:26.9744410+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2025-12-02T16:52:26.9755953+05:30  [INF] Hosting environment: "Development" (bc5a1a4e)
+2025-12-02T16:52:26.9757622+05:30  [INF] Content root path: "J:\manohar\RestaurantBookingSystem\RestaurantBookingSystem" (cc26f24e)
+2025-12-02T16:52:28.6383959+05:30 0HNHHIK9E497J:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - null null (d509f86a)
+2025-12-02T16:52:32.1294756+05:30 0HNHHIK9E497K:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - null null (d509f86a)
+2025-12-02T16:52:32.1823345+05:30 0HNHHIK9E497K:00000003 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - null null (d509f86a)
+2025-12-02T16:52:32.2088978+05:30 0HNHHIK9E497J:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 3624.3364ms (74253ad3)
+2025-12-02T16:52:32.2091997+05:30 0HNHHIK9E497K:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - 200 16531 "application/javascript; charset=utf-8" 80.185ms (74253ad3)
+2025-12-02T16:52:32.3675745+05:30 0HNHHIK9E497K:00000003 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 185.824ms (74253ad3)
+2025-12-02T16:52:32.4476716+05:30 0HNHHIK9E497K:00000005 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - null null (d509f86a)
+2025-12-02T16:52:32.6220500+05:30 0HNHHIK9E497K:00000005 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 175.4138ms (74253ad3)
+2025-12-02T16:52:47.0414194+05:30 0HNHHIK9E497L:00000001 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/api/Admin/restaurants""" - null null (d509f86a)
+2025-12-02T16:52:47.0730875+05:30 0HNHHIK9E497L:00000001 [INF] Authorization failed. "These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)" (92d7f7d3)
+2025-12-02T16:52:47.0785529+05:30 0HNHHIK9E497L:00000001 [INF] AuthenticationScheme: "Bearer" was challenged. (d45f1f38)
+2025-12-02T16:52:47.0788033+05:30 0HNHHIK9E497L:00000001 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/api/Admin/restaurants""" - 401 0 null 37.856ms (74253ad3)
+2025-12-02T16:53:06.4636719+05:30 0HNHHIK9E497L:00000003 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/api/Cart/user/1""" - null null (d509f86a)
+2025-12-02T16:53:06.4702555+05:30 0HNHHIK9E497L:00000003 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.CartController.GetUserCart (RestaurantBookingSystem)"' (500cc934)
+2025-12-02T16:53:06.5114682+05:30 0HNHHIK9E497L:00000003 [INF] Route matched with "{action = \"GetUserCart\", controller = \"Cart\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetUserCart(Int32)" on controller "RestaurantBookingSystem.Controllers.CartController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-12-02T16:53:09.5670110+05:30 0HNHHIK9E497L:00000003 [INF] Executed DbCommand ("181"ms) [Parameters=["@__userId_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[CartId], [c].[AddedAt], [c].[ItemId], [c].[Quantity], [c].[RestaurantId], [c].[UserId]
+FROM [Cart] AS [c]
+WHERE [c].[UserId] = @__userId_0
+ORDER BY [c].[AddedAt]" (0723d8ff)
+2025-12-02T16:53:09.6635455+05:30 0HNHHIK9E497L:00000003 [INF] Executed DbCommand ("5"ms) [Parameters=["@__cart_ItemId_0='?' (DbType = Int32), @__cart_RestaurantId_1='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [m].[ItemId], [m].[AvailableQty], [m].[Description], [m].[Discount], [m].[Image], [m].[IsVegetarian], [m].[ItemName], [m].[Price], [m].[RestaurantId], [m].[Tax]
+FROM [MenuList] AS [m]
+WHERE [m].[ItemId] = @__cart_ItemId_0 AND [m].[RestaurantId] = @__cart_RestaurantId_1" (0723d8ff)
+2025-12-02T16:53:09.7429940+05:30 0HNHHIK9E497L:00000003 [INF] Executed DbCommand ("5"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[RestaurantId], [r].[City], [r].[ContactNo], [r].[CreatedAt], [r].[DeliveryCharge], [r].[Description], [r].[Images], [r].[IsActive], [r].[Location], [r].[ManagerId], [r].[Ratings], [r].[RestaurantCategory], [r].[RestaurantName], [r].[RestaurantType]
+FROM [Restaurants] AS [r]
+WHERE [r].[RestaurantId] = @__p_0" (0723d8ff)
+2025-12-02T16:53:09.7973248+05:30 0HNHHIK9E497L:00000003 [INF] Executed DbCommand ("2"ms) [Parameters=["@__cart_ItemId_0='?' (DbType = Int32), @__cart_RestaurantId_1='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [m].[ItemId], [m].[AvailableQty], [m].[Description], [m].[Discount], [m].[Image], [m].[IsVegetarian], [m].[ItemName], [m].[Price], [m].[RestaurantId], [m].[Tax]
+FROM [MenuList] AS [m]
+WHERE [m].[ItemId] = @__cart_ItemId_0 AND [m].[RestaurantId] = @__cart_RestaurantId_1" (0723d8ff)
+2025-12-02T16:53:09.8086240+05:30 0HNHHIK9E497L:00000003 [INF] Executing "OkObjectResult", writing value of type '"RestaurantBookingSystem.Utils.ApiSuccessResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (605b4265)
+2025-12-02T16:53:09.9621694+05:30 0HNHHIK9E497L:00000003 [INF] Executed action "RestaurantBookingSystem.Controllers.CartController.GetUserCart (RestaurantBookingSystem)" in 3445.1366ms (afa2e885)
+2025-12-02T16:53:09.9629584+05:30 0HNHHIK9E497L:00000003 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.CartController.GetUserCart (RestaurantBookingSystem)"' (99874f2b)
+2025-12-02T16:53:09.9739577+05:30 0HNHHIK9E497L:00000003 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/api/Cart/user/1""" - 200 531 "application/json; charset=utf-8" 3510.3592ms (74253ad3)
+2025-12-02T16:53:23.5155353+05:30 0HNHHIK9E497L:00000005 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/api/Admin/restaurants""" - null null (d509f86a)
+2025-12-02T16:53:23.5180705+05:30 0HNHHIK9E497L:00000005 [INF] Authorization failed. "These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)" (92d7f7d3)
+2025-12-02T16:53:23.5185012+05:30 0HNHHIK9E497L:00000005 [INF] AuthenticationScheme: "Bearer" was challenged. (d45f1f38)
+2025-12-02T16:53:23.5186418+05:30 0HNHHIK9E497L:00000005 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/api/Admin/restaurants""" - 401 0 null 3.9078ms (74253ad3)
+2025-12-02T16:53:36.4056727+05:30 0HNHHIK9E497L:00000007 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/api/Admin/managers""?roleId=1" - null null (d509f86a)
+2025-12-02T16:53:36.4085260+05:30 0HNHHIK9E497L:00000007 [INF] Authorization failed. "These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)" (92d7f7d3)
+2025-12-02T16:53:36.4089675+05:30 0HNHHIK9E497L:00000007 [INF] AuthenticationScheme: "Bearer" was challenged. (d45f1f38)
+2025-12-02T16:53:36.4091759+05:30 0HNHHIK9E497L:00000007 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/api/Admin/managers""?roleId=1" - 401 0 null 3.9295ms (74253ad3)
+2025-12-02T16:54:05.9874137+05:30 0HNHHIK9E497L:00000009 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/api/DeliveryAddress/1""" - null null (d509f86a)
+2025-12-02T16:54:05.9895880+05:30 0HNHHIK9E497L:00000009 [INF] Executing endpoint '"RestaurantBookingSystem.Controllers.DeliveryAddressController.GetAddress (RestaurantBookingSystem)"' (500cc934)
+2025-12-02T16:54:06.0166331+05:30 0HNHHIK9E497L:00000009 [INF] Route matched with "{action = \"GetAddress\", controller = \"DeliveryAddress\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAddress(Int32)" on controller "RestaurantBookingSystem.Controllers.DeliveryAddressController" ("RestaurantBookingSystem"). (122b2fdf)
+2025-12-02T16:54:06.0753663+05:30 0HNHHIK9E497L:00000009 [INF] Executed DbCommand ("6"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [d].[AddressId], [d].[Address], [d].[City], [d].[ContactNo], [d].[IsDefault], [d].[Landmark], [d].[Mobile], [d].[Pincode], [d].[State], [d].[UserId]
+FROM [DeliveryAddress] AS [d]
+WHERE [d].[AddressId] = @__p_0" (0723d8ff)
+2025-12-02T16:54:06.0930732+05:30 0HNHHIK9E497L:00000009 [INF] Executing "OkObjectResult", writing value of type '"RestaurantBookingSystem.Utils.ApiSuccessResponse`1[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'. (605b4265)
+2025-12-02T16:54:06.0993782+05:30 0HNHHIK9E497L:00000009 [INF] Executed action "RestaurantBookingSystem.Controllers.DeliveryAddressController.GetAddress (RestaurantBookingSystem)" in 82.4626ms (afa2e885)
+2025-12-02T16:54:06.0994665+05:30 0HNHHIK9E497L:00000009 [INF] Executed endpoint '"RestaurantBookingSystem.Controllers.DeliveryAddressController.GetAddress (RestaurantBookingSystem)"' (99874f2b)
+2025-12-02T16:54:06.0998548+05:30 0HNHHIK9E497L:00000009 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/api/DeliveryAddress/1""" - 200 261 "application/json; charset=utf-8" 113.0101ms (74253ad3)
+2025-12-02T16:54:10.8156411+05:30 0HNHHIK9E497L:0000000B [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - null null (d509f86a)
+2025-12-02T16:54:10.8317709+05:30 0HNHHIK9E497L:0000000B [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 16.4084ms (74253ad3)
+2025-12-02T16:54:10.8466704+05:30 0HNHHIK9E497L:0000000F [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - null null (d509f86a)
+2025-12-02T16:54:10.8466718+05:30 0HNHHIK9E497L:0000000D [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - null null (d509f86a)
+2025-12-02T16:54:10.8500594+05:30 0HNHHIK9E497L:0000000D [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_framework/aspnetcore-browser-refresh.js""" - 200 16531 "application/javascript; charset=utf-8" 3.6452ms (74253ad3)
+2025-12-02T16:54:10.8729020+05:30 0HNHHIK9E497L:0000000F [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 26.6084ms (74253ad3)
+2025-12-02T16:54:10.9680514+05:30 0HNHHIK9E497L:00000011 [INF] Request starting "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - null null (d509f86a)
+2025-12-02T16:54:11.0260770+05:30 0HNHHIK9E497L:00000011 [INF] Request finished "HTTP/2" "GET" "https"://"localhost:7188""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 58.8759ms (74253ad3)

@@ -1,0 +1,41 @@
+/* Clean dashboard styles */
+.MuiCard-root {
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+/* Dashboard layout optimization */
+.manager-dashboard-overview {
+  width: 100%;
+  max-width: 100%;
+  padding: 16px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+/* Ensure cards container doesn't overflow */
+.manager-dashboard-overview > div {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .MuiGrid-item {
+    padding: 8px !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .MuiCard-root {
+    height: auto !important;
+  }
+  
+  .MuiCardContent-root {
+    padding: 16px !important;
+  }
+  
+  .manager-dashboard-overview {
+    padding: 12px;
+  }
+}

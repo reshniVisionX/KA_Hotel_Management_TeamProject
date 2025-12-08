@@ -1,0 +1,24 @@
+/* Clean restaurant management styles */
+.MuiCard-root {
+  box-sizing: border-box;
+}
+
+/* Restaurant layout optimization */
+.restaurant-container {
+  width: 100%;
+  max-width: 100%;
+  padding: 16px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .restaurant-container {
+    padding: 12px;
+  }
+  
+  .MuiCardContent-root {
+    padding: 16px !important;
+  }
+}

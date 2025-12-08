@@ -15,15 +15,18 @@
     html, body {
       background-color: rgb(252, 218, 218);
     }
+    a{
+      color: inherit;
+      text-decoration: none;
+    }
 
-    /* #footer {
+    #footer {
+      padding: 0.5rem 1rem;
+      text-align: center;
       background-color: #f43f5e;
       color: white;
-      padding: 4px 10px;
-      font-size: 0.8rem;
-      line-height: 1.2;
-      text-align: center;
-    } */
+      margin-top: auto;
+    }
 
     .content-wrapper {
       display: flex;
@@ -127,17 +130,17 @@
   <div class="content-wrapper">
     <div class="sidebar">
       <img src="https://via.placeholder.com/100" alt="User Profile">
-      <h3>User_Name</h3>
-   <button onclick="location.href='dashboard.html'">Dashboard</button>
-<button onclick="location.href='bookings.html'">Bookings</button>
-<button onclick="location.href='profile.html'">Profile</button>
-<button onclick="location.href='preferences.html'">Preferences</button>
-<button onclick="location.href='support.html'">Support</button>
-<button onclick="location.href='../Login.html'">Logout</button>
-<button onclick="location.href='../ManagerPage/HMD.html'">Manage Hotels</button>
-<button onclick="location.href='../ManagerPage/RMD.html'">Manage Restaurants</button>
-<button onclick="location.href='../Admin.html'">Admin</button>
-
+      <h3>Stay & Dine</h3>
+      <button><a href="dashboard.html">Dashboard</a></button>
+      <button><a href="bookings.html">Bookings</a> </button>
+      <button><a href="edit-profile.html">Profile</a></button>
+      <button><a href="preferences.html">Preferences</a></button>
+      <button><a href="http://127.0.0.1:5501/Contact.html">Support</a></button>
+      <button><a href="http://127.0.0.1:5501/Login.html">Logout</a></button>
+      <button><a href="../ManagerPage/HMD.html">Manage Hotels</a></button>
+        <button><a href="../ManagerPage/RMD.html">Manage Restaurants</a></button>
+      <button><a href="http://127.0.0.1:5501/Admin.html">Admin</a></button>
+       <button><a href="http://127.0.0.1:5501/Hompg.html">Home</a></button>
     </div>
     <div class="main">
       <h2>Past Bookings</h2>

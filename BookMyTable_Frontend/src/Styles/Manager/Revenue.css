@@ -1,0 +1,737 @@
+.revenue-container {
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  background-color: var(--background-color);
+  min-height: 100vh;
+}
+
+.revenue-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.revenue-header h1 {
+  color: var(--primary-color);
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.revenue-header p {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+.revenue-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+}
+
+.revenue-filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.period-filters {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.period-filters button {
+  padding: 0.5rem 1rem;
+  border: 2px solid var(--border-color);
+  background-color: var(--card-background);
+  color: var(--text-color);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.period-filters button:hover {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+.period-filters button.active {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+.custom-date-range {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.custom-date-range input {
+  padding: 0.5rem;
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  background-color: var(--card-background);
+  color: var(--text-color);
+}
+
+.custom-date-range button {
+  padding: 0.5rem 1rem;
+  background-color: var(--secondary-color);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.custom-date-range button:hover {
+  background-color: var(--primary-color);
+}
+
+.revenue-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.revenue-card {
+  background-color: var(--card-background);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border-color);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.revenue-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.revenue-card-header h3 {
+  color: var(--text-color);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.revenue-card-content {
+  text-align: center;
+}
+
+.revenue-main-value {
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.revenue-label {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.total-revenue {
+  border-left: 4px solid #28a745;
+}
+
+.today-revenue {
+  border-left: 4px solid #007bff;
+}
+
+.total-orders {
+  border-left: 4px solid #ffc107;
+}
+
+.avg-order {
+  border-left: 4px solid #17a2b8;
+}
+
+.revenue-charts-section {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.revenue-chart-card,
+.revenue-breakdown-card {
+  background-color: var(--card-background);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border-color);
+}
+
+.chart-header {
+  margin-bottom: 1.5rem;
+}
+
+.chart-header h3 {
+  color: var(--text-color);
+  font-size: 1.2rem;
+}
+
+.daily-revenue-chart {
+  height: 300px;
+  position: relative;
+}
+
+.chart-container {
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  padding: 1rem 0 1rem 60px;
+}
+
+.y-axis {
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  bottom: 1rem;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-right: 8px;
+}
+
+.y-axis-label,
+.chart-label {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+  font-weight: normal;
+  font-family: inherit;
+  line-height: 1;
+}
+
+.y-axis-label {
+  text-align: right;
+}
+
+.chart-label {
+  margin-top: 0.5rem;
+  text-align: center;
+  writing-mode: horizontal-tb;
+}
+
+.chart-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border-left: 2px solid var(--border-color);
+  border-bottom: 2px solid var(--border-color);
+}
+
+.chart-bar-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+.chart-bar {
+  background: linear-gradient(to top, var(--primary-color), var(--secondary-color));
+  width: 100%;
+  min-height: 5px;
+  border-radius: 4px 4px 0 0;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  align-self: flex-end;
+}
+
+.chart-bar:hover {
+  opacity: 0.8;
+  transform: scaleY(1.05);
+}
+
+.no-data {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.payment-breakdown {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.payment-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: var(--background-color);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.payment-label {
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.payment-label.cash {
+  color: #28a745;
+}
+
+.payment-label.upi {
+  color: #007bff;
+}
+
+.payment-value {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: var(--primary-color);
+}
+
+.revenue-details-section {
+  margin-bottom: 2rem;
+}
+
+.revenue-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  background-color: var(--card-background);
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border-color);
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: var(--background-color);
+}
+
+.stat-label {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.stat-value {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+.revenue-actions {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.refresh-btn,
+.export-btn {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.refresh-btn {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.refresh-btn:hover {
+  background-color: var(--secondary-color);
+  transform: translateY(-2px);
+}
+
+.export-btn {
+  background-color: var(--success-color);
+  color: white;
+}
+
+.export-btn:hover {
+  background-color: #218838;
+  transform: translateY(-2px);
+}
+
+/* Admin Payout Section */
+.admin-payout-section {
+  background-color: var(--card-background);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid #ff6b35;
+}
+
+.payout-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.payout-header h2 {
+  color: var(--text-color);
+  font-size: 1.3rem;
+  margin: 0;
+}
+
+.toggle-payout-btn {
+  padding: 0.5rem 1rem;
+  background-color: #ff6b35;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.toggle-payout-btn:hover {
+  background-color: #e55a2b;
+  transform: translateY(-1px);
+}
+
+.payout-content {
+  margin-top: 1.5rem;
+}
+
+.settlement-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.settlement-card {
+  background-color: var(--background-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  border: 1px solid var(--border-color);
+}
+
+.settlement-card h3 {
+  color: var(--text-color);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.settlement-details {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.settlement-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background-color: var(--background-color);
+  transition: all 0.3s ease;
+}
+
+.settlement-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.settlement-item.commission {
+  border-left: 4px solid #dc3545;
+  background-color: rgba(220, 53, 69, 0.05);
+}
+
+.settlement-item.pending {
+  border-left: 4px solid #28a745;
+  background-color: rgba(40, 167, 69, 0.05);
+  font-weight: 600;
+}
+
+.settlement-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.settlement-title {
+  font-weight: 600;
+  color: var(--text-color);
+  font-size: 1rem;
+}
+
+.settlement-desc {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.settlement-amount {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: var(--primary-color);
+}
+
+.settlement-item.commission .settlement-amount {
+  color: #dc3545;
+}
+
+.settlement-item.pending .settlement-amount {
+  color: #28a745;
+}
+
+.analytics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.analytics-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+  background-color: var(--background-color);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.analytics-label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.analytics-value {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+.settlement-info-card {
+  background-color: var(--card-background);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  border: 1px solid var(--border-color);
+}
+
+.settlement-info-card h4 {
+  color: var(--text-color);
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.info-item {
+  padding: 0.75rem;
+  background-color: var(--background-color);
+  border-radius: 6px;
+  border-left: 3px solid var(--primary-color);
+  font-size: 0.9rem;
+  color: var(--text-color);
+}
+
+.payout-actions {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.process-payout-btn {
+  padding: 1rem 2rem;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+}
+
+.process-payout-btn:hover {
+  background-color: #218838;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(40, 167, 69, 0.3);
+}
+
+.payout-history {
+  margin-top: 2rem;
+}
+
+.payout-history h3 {
+  color: var(--text-color);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.history-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: var(--background-color);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.history-item:hover {
+  transform: translateX(5px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.history-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.history-date {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.history-amount {
+  font-weight: 600;
+  color: var(--primary-color);
+  font-size: 1.1rem;
+}
+
+.history-status .status {
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.history-status .status.paid {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.history-status .status.pending {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.history-status .status.failed {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.no-history {
+  text-align: center;
+  color: var(--text-secondary);
+  font-style: italic;
+  padding: 2rem;
+  background-color: var(--background-color);
+  border-radius: 8px;
+  border: 1px dashed var(--border-color);
+}
+
+@media (max-width: 768px) {
+  .revenue-container {
+    padding: 1rem;
+  }
+  
+  .revenue-filters {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1rem;
+  }
+  
+  .period-filters {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .custom-date-range {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .revenue-charts-section {
+    grid-template-columns: 1fr;
+  }
+  
+  .revenue-summary-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .chart-label {
+    font-size: 0.6rem;
+  }
+  
+  .settlement-summary {
+    grid-template-columns: 1fr;
+  }
+  
+  .analytics-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .info-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .payout-header {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: stretch;
+  }
+  
+  .history-item {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+  
+  .history-info {
+    align-items: center;
+  }
+}

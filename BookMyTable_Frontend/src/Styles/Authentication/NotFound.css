@@ -1,0 +1,45 @@
+.notfound-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: var(--bg-color);
+  padding: 20px;
+}
+
+.notfound-code {
+  font-size: 100px;
+  font-weight: 800;
+  color: var(--primary-color);
+  margin: 0;
+}
+
+.notfound-title {
+  font-size: 32px;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 10px;
+}
+
+.notfound-text {
+  font-size: 18px;
+  color: var(--text-color);
+  margin-bottom: 25px;
+}
+
+.notfound-btn {
+  padding: 12px 24px;
+  background-color: var(--primary-color);
+  color: var(--text-color-light, #fff);
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.notfound-btn:hover {
+  background-color: var(--primary-hover);
+  box-shadow: var(--card-shadow-hover);
+}
