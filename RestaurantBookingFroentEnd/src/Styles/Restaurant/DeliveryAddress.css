@@ -1,0 +1,264 @@
+.dm-overlay-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  backdrop-filter: blur(4px);
+}
+
+.dm-modal-container {
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow-hover);
+  width: 90%;
+  max-width: 500px;
+  max-height: 80vh;
+  overflow: hidden;
+  animation: modalSlideIn 0.3s ease-out;
+}
+
+@keyframes modalSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.dm-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid var(--card-border);
+  background: var(--primary-color);
+  color: white;
+}
+
+.dm-modal-title {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.dm-close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: white;
+  cursor: pointer;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease;
+}
+
+.dm-close-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.dm-modal-content {
+  padding: 20px;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.dm-loading {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-color);
+}
+
+.dm-address-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.dm-address-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  border: 2px solid var(--card-border);
+  border-radius: 8px;
+  background: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--card-shadow);
+}
+
+.dm-address-card:hover {
+  border-color: var(--primary-color);
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-2px);
+}
+
+.dm-address-card.dm-selected {
+  border-color: var(--primary-color);
+  background: var(--bg-color);
+  box-shadow: var(--card-shadow-hover);
+}
+
+.dm-address-info {
+  flex: 1;
+}
+
+.dm-address-text {
+  margin: 0 0 4px 0;
+  font-weight: 500;
+  color: var(--text-color);
+  font-size: 0.95rem;
+}
+
+.dm-address-location {
+  margin: 0;
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.dm-default-badge {
+  background: var(--primary-color);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: bold;
+  min-width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dm-add-new-btn {
+  width: 100%;
+  padding: 12px;
+  background: var(--secondary-color);
+  color: var(--text-color);
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--card-shadow);
+}
+
+.dm-add-new-btn:hover {
+  background: var(--secondary-hover);
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-1px);
+}
+
+.dm-add-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.dm-form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.dm-input {
+  padding: 12px;
+  border: 2px solid var(--card-border);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+  background: white;
+  color: var(--text-color);
+  cursor: pointer;
+}
+
+.dm-input:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(255, 122, 0, 0.1);
+}
+
+.dm-input:disabled {
+  background: #f5f5f5;
+  color: #999;
+  cursor: not-allowed;
+}
+
+.dm-input option {
+  padding: 8px;
+  background: white;
+  color: var(--text-color);
+}
+
+.dm-input:nth-child(2) {
+  grid-column: 1 / -1;
+}
+
+.dm-form-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+}
+
+.dm-save-btn {
+  padding: 10px 20px;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.dm-save-btn:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+  box-shadow: var(--card-shadow);
+}
+
+.dm-cancel-btn {
+  padding: 10px 20px;
+  background: transparent;
+  color: var(--text-color);
+  border: 2px solid var(--card-border);
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.dm-cancel-btn:hover {
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+}
+
+@media (max-width: 600px) {
+  .dm-modal-container {
+    width: 95%;
+    margin: 20px;
+  }
+  
+  .dm-form-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .dm-form-actions {
+    flex-direction: column;
+  }
+}
