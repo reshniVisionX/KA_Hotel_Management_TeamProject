@@ -1,0 +1,1515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\migrations\\20251203072620_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\migrations\\20251203072620_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\utils\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\utils\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\managerdashboard\\reviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\managerdashboard\\reviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\managerdashboard\\restaurantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\managerdashboard\\restaurantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\managerdashboard\\reservationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\managerdashboard\\reservationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\managerdashboard\\paymentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\managerdashboard\\paymentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\managerdashboard\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\managerdashboard\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\managerdashboard\\menulistsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\managerdashboard\\menulistsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\managerdashboard\\dineinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\managerdashboard\\dineinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\managerdashboard\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\managerdashboard\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\admin\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\admin\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\admin\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\admin\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\admin\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\admin\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\admin\\adminmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\admin\\adminmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\admin\\admindeliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\admin\\admindeliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\menulistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\menulistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\deliverypersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\deliverypersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\deliveryaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\deliveryaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dineindineout\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dineindineout\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dashboard\\wishlistsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dashboard\\wishlistsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dashboard\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dashboard\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dashboard\\userpreferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dashboard\\userpreferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dashboard\\useraddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dashboard\\useraddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dashboard\\tablebookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dashboard\\tablebookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dashboard\\reviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dashboard\\reviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dashboard\\orderhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dashboard\\orderhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\services\\dashboard\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\services\\dashboard\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\controllers\\dineindineout\\deliverypersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\controllers\\dineindineout\\deliverypersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\controllers\\managerdashboard\\menulistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\controllers\\managerdashboard\\menulistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\controllers\\managerdashboard\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\controllers\\managerdashboard\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\controllers\\dineindineout\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\controllers\\dineindineout\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\repository\\admin\\admindeliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\repository\\admin\\admindeliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\controllers\\admin\\admindeliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\controllers\\admin\\admindeliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\interfaces\\admin\\ideliveryrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\interfaces\\admin\\ideliveryrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\utils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\utils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\dtos\\admin\\changedeliveryaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\dtos\\admin\\changedeliveryaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\repository\\admin\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\repository\\admin\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\interfaces\\admin\\iadmindeliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\interfaces\\admin\\iadmindeliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\delivery\\deliveryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\delivery\\deliveryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\controllers\\admin\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\controllers\\admin\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\interfaces\\admin\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\interfaces\\admin\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\customers\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\customers\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\utils\\otpgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\utils\\otpgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\email template\\otpgenerator.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\email template\\otpgenerator.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\utils\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\utils\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\utils\\emailtomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\utils\\emailtomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\restaurantbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\restaurantbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\dtos\\admin\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\dtos\\admin\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\dtos\\admin\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\dtos\\admin\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\dtos\\admin\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\dtos\\admin\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\migrations\\20251031062736_contextupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\migrations\\20251031062736_contextupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\customers\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\customers\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\utils\\notifyusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\utils\\notifyusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\delivery\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\delivery\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\restaurant\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\restaurant\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\restaurant\\restaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\restaurant\\restaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\restaurant\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\restaurant\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\restaurant\\dinein.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\restaurant\\dinein.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\restaurant\\menulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\restaurant\\menulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\restaurant\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\restaurant\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\manager\\managerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\manager\\managerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\manager\\managerpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\manager\\managerpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\customers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\customers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030175109_Init_Restaurantupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030174808_Init_Restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\delivery\\deliveryperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\delivery\\deliveryperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\customers\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\customers\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\customers\\userpreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\customers\\userpreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\customers\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\customers\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\model\\customers\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\model\\customers\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030173853_Init_RestaurantUpd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022173133_Restaurant_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022173021_Restaurant_Upd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022172551_Restaurant_Upd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022172129_Restaurant_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251017153156_Updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251017151614_Restaurant_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20250913103254_Restaurant_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20250909175143_Booking_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\IUserProfileService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\migrations\\20251030175334_init_restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\migrations\\20251030175334_init_restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|c:\\kanini\\finalfigmaproject\\restaurantbookingsystem\\restaurantbookingsystem\\migrations\\20251202103803_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3687A6A5-9EF0-4B5A-A445-79005F834AD6}|RestaurantBookingSystem\\RestaurantBookingSystem.csproj|solutionrelative:restaurantbookingsystem\\migrations\\20251202103803_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251203072620_updated.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251203072620_updated.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Migrations\\20251203072620_updated.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251203072620_updated.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Migrations\\20251203072620_updated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:26:20.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuListsService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\MenuListsService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\ManagerDashboard\\MenuListsService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\MenuListsService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\ManagerDashboard\\MenuListsService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:46:06.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\AppException.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Utils\\AppException.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\AppException.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Utils\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:06:28.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\appsettings.json",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\appsettings.json",
+              "RelativeToolTip": "RestaurantBookingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T17:55:08.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentsService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\PaymentsService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\ManagerDashboard\\PaymentsService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\PaymentsService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\ManagerDashboard\\PaymentsService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:49:08.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationsService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\ReservationsService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\ManagerDashboard\\ReservationsService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\ReservationsService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\ManagerDashboard\\ReservationsService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:49:17.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantsService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\RestaurantsService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\ManagerDashboard\\RestaurantsService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\RestaurantsService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\ManagerDashboard\\RestaurantsService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:49:22.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewsService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\ReviewsService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\ManagerDashboard\\ReviewsService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\ReviewsService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\ManagerDashboard\\ReviewsService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:49:28.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:03:56.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DineInService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\DineInService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\ManagerDashboard\\DineInService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\DineInService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\ManagerDashboard\\DineInService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:46:24.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDeliveryService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\AdminDeliveryService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Admin\\AdminDeliveryService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\AdminDeliveryService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Admin\\AdminDeliveryService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:21:11.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminManagerService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\AdminManagerService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Admin\\AdminManagerService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\AdminManagerService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Admin\\AdminManagerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:33:21.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\AdminServices.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Admin\\AdminServices.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\AdminServices.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Admin\\AdminServices.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwGMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:07:43.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\TokenService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Admin\\TokenService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\TokenService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Admin\\TokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:30:50.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\OrderService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\ManagerDashboard\\OrderService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\OrderService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\ManagerDashboard\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:27:21.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WishlistService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\WishlistService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\WishlistService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\WishlistService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\WishlistService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:44:32.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\CustomerService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\ManagerDashboard\\CustomerService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\ManagerDashboard\\CustomerService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\ManagerDashboard\\CustomerService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:27:14.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TableService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\TableService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\TableService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\TableService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\TableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:44:27.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\UserServices.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Admin\\UserServices.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Admin\\UserServices.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Admin\\UserServices.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:47:48.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\ReviewService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\ReviewService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\ReviewService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\ReviewService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAIwGYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:43:26.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\RestaurantService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\RestaurantService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\RestaurantService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:43:15.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\ReservationService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\ReservationService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\ReservationService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\ReservationService.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAUwJkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:41:17.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\PaymentService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\PaymentService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\PaymentService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\PaymentService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:40:39.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\OrdersService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\OrdersService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\OrdersService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\OrdersService.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:39:52.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuListService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\MenuListService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\MenuListService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\MenuListService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\MenuListService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:39:19.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:38:15.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeliveryPersonService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryPersonService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryPersonService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryPersonService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryPersonService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:37:12.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeliveryAddressService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryAddressService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryAddressService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryAddressService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\DeliveryAddressService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:37:09.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\CartService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\DineinDineout\\CartService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\DineinDineout\\CartService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\DineinDineout\\CartService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:37:02.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WishlistsService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\WishlistsService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Dashboard\\WishlistsService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\WishlistsService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Dashboard\\WishlistsService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:36:28.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserProfileService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\UserProfileService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Dashboard\\UserProfileService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\UserProfileService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Dashboard\\UserProfileService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:36:23.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserPreferenceService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\UserPreferenceService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Dashboard\\UserPreferenceService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\UserPreferenceService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Dashboard\\UserPreferenceService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowF4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:35:55.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserAddressService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\UserAddressService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Dashboard\\UserAddressService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\UserAddressService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Dashboard\\UserAddressService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:35:32.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TableBookingService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\TableBookingService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Dashboard\\TableBookingService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\TableBookingService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Dashboard\\TableBookingService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:35:07.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManagerService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\ManagerService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Dashboard\\ManagerService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\ManagerService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Dashboard\\ManagerService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:33:27.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderHistoryService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\OrderHistoryService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Dashboard\\OrderHistoryService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\OrderHistoryService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Dashboard\\OrderHistoryService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwE8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:27:48.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReviewsService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\ReviewsService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Services\\Dashboard\\ReviewsService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Services\\Dashboard\\ReviewsService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Services\\Dashboard\\ReviewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:27:35.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeliveryPersonController.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\DineinDineout\\DeliveryPersonController.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Controllers\\DineinDineout\\DeliveryPersonController.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\DineinDineout\\DeliveryPersonController.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Controllers\\DineinDineout\\DeliveryPersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:23:47.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MenuListsController.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\ManagerDashboard\\MenuListsController.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Controllers\\ManagerDashboard\\MenuListsController.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\ManagerDashboard\\MenuListsController.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Controllers\\ManagerDashboard\\MenuListsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwCcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:20:20.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\DineinDineout\\CartController.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Controllers\\DineinDineout\\CartController.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\DineinDineout\\CartController.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Controllers\\DineinDineout\\CartController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:19:47.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\ManagerDashboard\\CustomerController.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Controllers\\ManagerDashboard\\CustomerController.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\ManagerDashboard\\CustomerController.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Controllers\\ManagerDashboard\\CustomerController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:19:39.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:44:56.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminDeliveryRepository.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Repository\\Admin\\AdminDeliveryRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Repository\\Admin\\AdminDeliveryRepository.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Repository\\Admin\\AdminDeliveryRepository.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Repository\\Admin\\AdminDeliveryRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:15:55.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AdminDeliveryController.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\Admin\\AdminDeliveryController.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Controllers\\Admin\\AdminDeliveryController.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\Admin\\AdminDeliveryController.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Controllers\\Admin\\AdminDeliveryController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:27:11.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20251202103803_initial.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251202103803_initial.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Migrations\\20251202103803_initial.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251202103803_initial.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Migrations\\20251202103803_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:38:04.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Repository\\Admin\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Repository\\Admin\\UserRepository.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Repository\\Admin\\UserRepository.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Repository\\Admin\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:40:49.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Utils\\ApiResponse.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\ApiResponse.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Utils\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:10:10.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Program.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Program.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:54:22.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IDeliveryRespository.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\Admin\\IDeliveryRespository.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Interfaces\\Admin\\IDeliveryRespository.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\Admin\\IDeliveryRespository.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Interfaces\\Admin\\IDeliveryRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:13:34.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ChangeDeliveryAddressDTO.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\DTOs\\Admin\\ChangeDeliveryAddressDTO.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\DTOs\\Admin\\ChangeDeliveryAddressDTO.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\DTOs\\Admin\\ChangeDeliveryAddressDTO.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\DTOs\\Admin\\ChangeDeliveryAddressDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:55:48.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DeliveryAddress.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Delivery\\DeliveryAddress.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Delivery\\DeliveryAddress.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Delivery\\DeliveryAddress.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Delivery\\DeliveryAddress.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:52:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAdminDeliveryService.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\Admin\\IAdminDeliveryService.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Interfaces\\Admin\\IAdminDeliveryService.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\Admin\\IAdminDeliveryService.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Interfaces\\Admin\\IAdminDeliveryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:13:46.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\Admin\\UsersController.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Controllers\\Admin\\UsersController.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Controllers\\Admin\\UsersController.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Controllers\\Admin\\UsersController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:30:18.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Users.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Customers\\Users.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Users.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Customers\\Users.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:58:58.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BookingContext.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Data\\BookingContext.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Data\\BookingContext.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Data\\BookingContext.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Data\\BookingContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:56:34.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OTPGenerator.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\OTPGenerator.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Utils\\OTPGenerator.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\OTPGenerator.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Utils\\OTPGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:13:21.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\SendEmail.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Utils\\SendEmail.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\SendEmail.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Utils\\SendEmail.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:25:07.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\Admin\\IUsers.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Interfaces\\Admin\\IUsers.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\Admin\\IUsers.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Interfaces\\Admin\\IUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:15:28.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OTPGenerator.html",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Email Template\\OTPGenerator.html",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Email Template\\OTPGenerator.html",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Email Template\\OTPGenerator.html",
+              "RelativeToolTip": "RestaurantBookingSystem\\Email Template\\OTPGenerator.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-30T14:20:51.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\DTOs\\Admin\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\DTOs\\Admin\\RegisterDTO.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\DTOs\\Admin\\RegisterDTO.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\DTOs\\Admin\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:39:10.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EmailToManager.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\EmailToManager.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Utils\\EmailToManager.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\EmailToManager.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Utils\\EmailToManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:20:05.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RestaurantBookingSystem.csproj",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\RestaurantBookingSystem.csproj",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\RestaurantBookingSystem.csproj",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\RestaurantBookingSystem.csproj",
+              "RelativeToolTip": "RestaurantBookingSystem\\RestaurantBookingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T18:44:19.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\DTOs\\Admin\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\DTOs\\Admin\\LoginDTO.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\DTOs\\Admin\\LoginDTO.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\DTOs\\Admin\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:13:42.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OTPRequest.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\DTOs\\Admin\\OTPRequest.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\DTOs\\Admin\\OTPRequest.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\DTOs\\Admin\\OTPRequest.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\DTOs\\Admin\\OTPRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:56:55.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20251031062736_ContextUpd.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251031062736_ContextUpd.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Migrations\\20251031062736_ContextUpd.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251031062736_ContextUpd.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Migrations\\20251031062736_ContextUpd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:27:36.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Notifications.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Customers\\Notifications.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Notifications.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Customers\\Notifications.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:51:21.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "NotifyUsers.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\NotifyUsers.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Utils\\NotifyUsers.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Utils\\NotifyUsers.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Utils\\NotifyUsers.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:20:21.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Delivery\\Delivery.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Delivery\\Delivery.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Delivery\\Delivery.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Delivery\\Delivery.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:47:33.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\Orders.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Restaurant\\Orders.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\Orders.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Restaurant\\Orders.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAIBQwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:00:15.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DineIn.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\DineIn.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Restaurant\\DineIn.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\DineIn.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Restaurant\\DineIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:00:06.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Restaurants.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\Restaurants.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Restaurant\\Restaurants.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\Restaurants.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Restaurant\\Restaurants.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:59:30.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Reservations.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\Reservations.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Restaurant\\Reservations.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\Reservations.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Restaurant\\Reservations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:17:02.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MenuList.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\MenuList.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Restaurant\\MenuList.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\MenuList.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Restaurant\\MenuList.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:59:46.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\Payment.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Restaurant\\Payment.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Restaurant\\Payment.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Restaurant\\Payment.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:00:31.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ManagerDetails.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Manager\\ManagerDetails.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Manager\\ManagerDetails.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Manager\\ManagerDetails.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Manager\\ManagerDetails.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:22:44.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ManagerPayment.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Manager\\ManagerPayment.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Manager\\ManagerPayment.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Manager\\ManagerPayment.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Manager\\ManagerPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:23:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Cart.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Customers\\Cart.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Cart.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Customers\\Cart.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:06:48.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20251030174808_Init_Restaurant.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030174808_Init_Restaurant.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030174808_Init_Restaurant.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:48:08.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20251030175109_Init_Restaurantupd.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030175109_Init_Restaurantupd.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030175109_Init_Restaurantupd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:51:09.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20251030175334_Init_Restaurant.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030175334_Init_Restaurant.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Migrations\\20251030175334_Init_Restaurant.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030175334_Init_Restaurant.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Migrations\\20251030175334_Init_Restaurant.cs",
+              "ViewState": "AgIAAC8CAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:53:34.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DeliveryPerson.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Delivery\\DeliveryPerson.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Delivery\\DeliveryPerson.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Delivery\\DeliveryPerson.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Delivery\\DeliveryPerson.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:05:13.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Wishlist.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Customers\\Wishlist.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Wishlist.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Customers\\Wishlist.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:00:43.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UserPreferences.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\UserPreferences.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Customers\\UserPreferences.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\UserPreferences.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Customers\\UserPreferences.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:01:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Roles.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Customers\\Roles.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Roles.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Customers\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:59:13.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Review.cs",
+              "RelativeDocumentMoniker": "RestaurantBookingSystem\\Model\\Customers\\Review.cs",
+              "ToolTip": "C:\\KANINI\\FinalFigmaProject\\RestaurantBookingSystem\\RestaurantBookingSystem\\Model\\Customers\\Review.cs",
+              "RelativeToolTip": "RestaurantBookingSystem\\Model\\Customers\\Review.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:00:59.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20251030173853_Init_RestaurantUpd.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030173853_Init_RestaurantUpd.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251030173853_Init_RestaurantUpd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:38:53.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20251022172551_Restaurant_Upd.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022172551_Restaurant_Upd.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022172551_Restaurant_Upd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:25:51.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20251022173021_Restaurant_Upd.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022173021_Restaurant_Upd.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022173021_Restaurant_Upd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:30:21.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20251022173133_Restaurant_init.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022173133_Restaurant_init.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022173133_Restaurant_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:31:34.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20251022172129_Restaurant_Init.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022172129_Restaurant_Init.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251022172129_Restaurant_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:21:29.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20251017153156_Updated.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251017153156_Updated.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251017153156_Updated.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:31:57.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20251017151614_Restaurant_Init.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251017151614_Restaurant_Init.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20251017151614_Restaurant_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:16:14.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20250913103254_Restaurant_Init.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20250913103254_Restaurant_Init.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20250913103254_Restaurant_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:32:54.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20250909175143_Booking_Init.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20250909175143_Booking_Init.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Migrations\\20250909175143_Booking_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:51:43.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IUserProfileService.cs",
+              "DocumentMoniker": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\IUserProfileService.cs",
+              "ToolTip": "S:\\Dotnet Projects\\RestaurantBookingSystem\\RestaurantBookingSystem\\Interfaces\\IUserProfileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:59:40.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
